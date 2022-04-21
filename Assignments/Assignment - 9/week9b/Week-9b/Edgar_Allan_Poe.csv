@@ -1,0 +1,1075 @@
+,poem_title,poem,processed_poem,poem_pos,verbs,adjectives,nouns,adverb,all_verbs,all_adjectives,all_nouns,all_adverb
+0,A Dream Within A Dream,"Take this kiss upon the brow!
+
+And, in parting from you now,
+
+Thus much let me avow-
+
+You are not wrong, who deem
+
+That my days have been a dream;
+
+Yet if hope has flown away
+
+In a night, or in a day,
+
+In a vision, or in none,
+
+Is it therefore the less gone?
+
+All that we see or seem
+
+Is but a dream within a dream.
+
+I stand amid the roar
+
+Of a surf-tormented shore,
+
+And I hold within my hand
+
+Grains of the golden sand-
+
+How few! yet how they creep
+
+Through my fingers to the deep,
+
+While I weep- while I weep!
+
+O God! can I not grasp
+
+Them with a tighter clasp?
+
+O God! can I not save
+
+One from the pitiless wave?
+
+Is all that we see or seem
+
+But a dream within a dream?     ",take kiss upon brow parting thus much let avow wrong deem days dream yet hope flown away night day vision none therefore less gone see seem dream within dream stand amid roar surf tormented shore hold within hand grains golden sand yet creep fingers deep weep weep god grasp tighter clasp god save one pitiless wave see seem dream within dream,"[('take', 'VB'), ('kiss', 'NNS'), ('upon', 'IN'), ('brow', 'NN'), ('parting', 'VBG'), ('thus', 'RB'), ('much', 'JJ'), ('let', 'NN'), ('avow', 'VB'), ('wrong', 'JJ'), ('deem', 'JJ'), ('days', 'NNS'), ('dream', 'NN'), ('yet', 'RB'), ('hope', 'VBP'), ('flown', 'VBN'), ('away', 'RB'), ('night', 'NN'), ('day', 'NN'), ('vision', 'NN'), ('none', 'NN'), ('therefore', 'RB'), ('less', 'RBR'), ('gone', 'VBN'), ('see', 'NN'), ('seem', 'VBP'), ('dream', 'NN'), ('within', 'IN'), ('dream', 'NN'), ('stand', 'NN'), ('amid', 'IN'), ('roar', 'JJ'), ('surf', 'NN'), ('tormented', 'VBD'), ('shore', 'RBR'), ('hold', 'NN'), ('within', 'IN'), ('hand', 'NN'), ('grains', 'NNS'), ('golden', 'JJ'), ('sand', 'NN'), ('yet', 'RB'), ('creep', 'JJ'), ('fingers', 'NNS'), ('deep', 'JJ'), ('weep', 'JJ'), ('weep', 'NN'), ('god', 'NN'), ('grasp', 'NN'), ('tighter', 'NN'), ('clasp', 'NN'), ('god', 'NN'), ('save', 'VBP'), ('one', 'CD'), ('pitiless', 'NN'), ('wave', 'NN'), ('see', 'VBP'), ('seem', 'VBP'), ('dream', 'NN'), ('within', 'IN'), ('dream', 'NN')]","['take', 'flown', 'seem', 'hope', 'save', 'see', 'parting', 'tormented', 'avow', 'gone']","['golden', 'deem', 'weep', 'roar', 'creep', 'much', 'deep', 'wrong']","['kiss', 'stand', 'grains', 'weep', 'pitiless', 'none', 'brow', 'hold', 'see', 'grasp', 'days', 'day', 'surf', 'sand', 'let', 'vision', 'hand', 'god', 'clasp', 'wave', 'night', 'dream', 'tighter', 'fingers']","['shore', 'thus', 'less', 'therefore', 'away', 'yet']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+1,The Happiest Day-The Happiest Hour,"The happiest day- the happiest hour
+        My sear'd and blighted heart hath known,
+      The highest hope of pride and power,
+        I feel hath flown.
+
+      Of power! said I? yes! such I ween;
+        But they have vanish'd long, alas!
+      The visions of my youth have been-
+        But let them pass.
+
+      And, pride, what have I now with thee?
+        Another brow may even inherit
+      The venom thou hast pour'd on me
+        Be still, my spirit!
+
+      The happiest day- the happiest hour
+        Mine eyes shall see- have ever seen,
+      The brightest glance of pride and power,
+        I feel- have been:
+
+      But were that hope of pride and power
+        Now offer'd with the pain
+      Even then I felt- that brightest hour
+        I would not live again:
+
+      For on its wing was dark alloy,
+        And, as it flutter'd- fell
+      An essence- powerful to destroy
+        A soul that knew it well.     ",happiest day happiest hour sear blighted heart hath known highest hope pride power feel hath flown power said yes ween vanish long alas visions youth let pass pride thee another brow may even inherit venom thou hast pour still spirit happiest day happiest hour mine eyes shall see ever seen brightest glance pride power feel hope pride power offer pain even felt brightest hour would live wing dark alloy flutter fell essence powerful destroy soul knew well,"[('happiest', 'JJS'), ('day', 'NN'), ('happiest', 'JJS'), ('hour', 'NN'), ('sear', 'NN'), ('blighted', 'VBD'), ('heart', 'NN'), ('hath', 'NN'), ('known', 'VBN'), ('highest', 'JJS'), ('hope', 'NN'), ('pride', 'NN'), ('power', 'NN'), ('feel', 'VB'), ('hath', 'RB'), ('flown', 'JJ'), ('power', 'NN'), ('said', 'VBD'), ('yes', 'UH'), ('ween', 'JJ'), ('vanish', 'JJ'), ('long', 'RB'), ('alas', 'JJ'), ('visions', 'NNS'), ('youth', 'VBP'), ('let', 'JJ'), ('pass', 'NN'), ('pride', 'VB'), ('thee', 'NN'), ('another', 'DT'), ('brow', 'NN'), ('may', 'MD'), ('even', 'RB'), ('inherit', 'VB'), ('venom', 'NN'), ('thou', 'IN'), ('hast', 'NN'), ('pour', 'NN'), ('still', 'RB'), ('spirit', 'JJ'), ('happiest', 'JJS'), ('day', 'NN'), ('happiest', 'JJS'), ('hour', 'NN'), ('mine', 'NN'), ('eyes', 'NNS'), ('shall', 'MD'), ('see', 'VB'), ('ever', 'RB'), ('seen', 'VBN'), ('brightest', 'JJS'), ('glance', 'NN'), ('pride', 'NN'), ('power', 'NN'), ('feel', 'VBP'), ('hope', 'NN'), ('pride', 'NN'), ('power', 'NN'), ('offer', 'VBP'), ('pain', 'NN'), ('even', 'RB'), ('felt', 'VBD'), ('brightest', 'JJS'), ('hour', 'NN'), ('would', 'MD'), ('live', 'VB'), ('wing', 'VBG'), ('dark', 'JJ'), ('alloy', 'NN'), ('flutter', 'NN'), ('fell', 'VBD'), ('essence', 'RB'), ('powerful', 'JJ'), ('destroy', 'JJ'), ('soul', 'NN'), ('knew', 'VBD'), ('well', 'RB')]","['youth', 'felt', 'offer', 'inherit', 'seen', 'feel', 'fell', 'knew', 'see', 'known', 'blighted', 'pride', 'live', 'wing', 'said']","['flown', 'happiest', 'vanish', 'ween', 'brightest', 'spirit', 'destroy', 'alas', 'highest', 'let', 'powerful', 'dark']","['pain', 'pass', 'brow', 'mine', 'pour', 'visions', 'hour', 'thee', 'power', 'soul', 'day', 'flutter', 'eyes', 'venom', 'glance', 'hope', 'heart', 'hast', 'alloy', 'hath', 'sear', 'pride']","['essence', 'ever', 'long', 'hath', 'even', 'still', 'well']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+2,Enigma,"The noblest name in Allegory's page, 
+The hand that traced inexorable rage; 
+A pleasing moralist whose page refined, 
+Displays the deepest knowledge of the mind; 
+A tender poet of a foreign tongue, 
+(Indited in the language that he sung.) 
+A bard of brilliant but unlicensed page 
+At once the shame and glory of our age, 
+The prince of harmony and stirling sense, 
+The ancient dramatist of eminence, 
+The bard that paints imagination's powers, 
+And him whose song revives departed hours, 
+Once more an ancient tragic bard recall, 
+In boldness of design surpassing all. 
+These names when rightly read, a name [make] known 
+Which gathers all their glories in its own.
+Baltimore Saturday Visiter, Feb. 2, 1833
+
+
+
+     For the Baltimore Visiter.     ",noblest name allegory page hand traced inexorable rage pleasing moralist whose page refined displays deepest knowledge mind tender poet foreign tongue indited language sung bard brilliant unlicensed page shame glory age prince harmony stirling sense ancient dramatist eminence bard paints imagination powers whose song revives departed hours ancient tragic bard recall boldness design surpassing names rightly read name make known gathers glories baltimore saturday visiter february        baltimore visiter,"[('noblest', 'JJS'), ('name', 'NN'), ('allegory', 'JJ'), ('page', 'NN'), ('hand', 'NN'), ('traced', 'VBD'), ('inexorable', 'JJ'), ('rage', 'NN'), ('pleasing', 'VBG'), ('moralist', 'NN'), ('whose', 'WP$'), ('page', 'NN'), ('refined', 'VBD'), ('displays', 'NNS'), ('deepest', 'JJS'), ('knowledge', 'NN'), ('mind', 'NN'), ('tender', 'NN'), ('poet', 'NN'), ('foreign', 'JJ'), ('tongue', 'NN'), ('indited', 'JJ'), ('language', 'NN'), ('sung', 'VBD'), ('bard', 'RB'), ('brilliant', 'JJ'), ('unlicensed', 'JJ'), ('page', 'NN'), ('shame', 'NN'), ('glory', 'NN'), ('age', 'NN'), ('prince', 'NN'), ('harmony', 'NN'), ('stirling', 'VBG'), ('sense', 'NN'), ('ancient', 'JJ'), ('dramatist', 'NN'), ('eminence', 'NN'), ('bard', 'NN'), ('paints', 'NNS'), ('imagination', 'NN'), ('powers', 'NNS'), ('whose', 'WP$'), ('song', 'JJ'), ('revives', 'NNS'), ('departed', 'VBD'), ('hours', 'NNS'), ('ancient', 'JJ'), ('tragic', 'JJ'), ('bard', 'NN'), ('recall', 'NN'), ('boldness', 'NN'), ('design', 'NN'), ('surpassing', 'VBG'), ('names', 'NNS'), ('rightly', 'RB'), ('read', 'VBP'), ('name', 'JJ'), ('make', 'VBP'), ('known', 'VBN'), ('gathers', 'NNS'), ('glories', 'NNS'), ('baltimore', 'VBP'), ('saturday', 'JJ'), ('visiter', 'NN'), ('february', 'JJ'), ('baltimore', 'NN'), ('visiter', 'NN')]","['baltimore', 'departed', 'stirling', 'refined', 'surpassing', 'make', 'known', 'traced', 'pleasing', 'sung', 'read']","['ancient', 'noblest', 'song', 'foreign', 'name', 'deepest', 'allegory', 'indited', 'unlicensed', 'tragic', 'saturday', 'inexorable', 'brilliant', 'february']","['moralist', 'name', 'tender', 'tongue', 'boldness', 'baltimore', 'harmony', 'mind', 'prince', 'shame', 'age', 'sense', 'visiter', 'rage', 'displays', 'poet', 'glories', 'glory', 'powers', 'page', 'names', 'language', 'eminence', 'hours', 'recall', 'dramatist', 'revives', 'bard', 'hand', 'gathers', 'knowledge', 'imagination', 'design', 'paints']","['bard', 'rightly']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+3,Alone,"From childhood's hour I have not been
+
+As others were; I have not seen
+
+As others saw; I could not bring
+
+My passions from a common spring.
+
+From the same source I have not taken
+
+My sorrow; I could not awaken
+
+My heart to joy at the same tone;
+
+And all I loved, I loved alone.
+
+Then- in my childhood, in the dawn
+
+Of a most stormy life- was drawn
+
+From every depth of good and ill
+
+The mystery which binds me still:
+
+From the torrent, or the fountain,
+
+From the red cliff of the mountain,
+
+From the sun that round me rolled
+
+In its autumn tint of gold,
+
+From the lightning in the sky
+
+As it passed me flying by,
+
+From the thunder and the storm,
+
+And the cloud that took the form
+
+(When the rest of Heaven was blue)
+
+Of a demon in my view.     ",childhood hour others seen others saw could bring passions common spring source taken sorrow could awaken heart joy tone loved loved alone childhood dawn stormy life drawn every depth good ill mystery binds still torrent fountain red cliff mountain sun round rolled autumn tint gold lightning sky passed flying thunder storm cloud took form rest heaven blue demon view,"[('childhood', 'NN'), ('hour', 'NN'), ('others', 'NNS'), ('seen', 'VBN'), ('others', 'NNS'), ('saw', 'VBD'), ('could', 'MD'), ('bring', 'VB'), ('passions', 'NNS'), ('common', 'JJ'), ('spring', 'NN'), ('source', 'NN'), ('taken', 'VBN'), ('sorrow', 'NN'), ('could', 'MD'), ('awaken', 'VB'), ('heart', 'NN'), ('joy', 'NN'), ('tone', 'NN'), ('loved', 'VBD'), ('loved', 'JJ'), ('alone', 'RB'), ('childhood', 'NN'), ('dawn', 'NN'), ('stormy', 'NN'), ('life', 'NN'), ('drawn', 'NN'), ('every', 'DT'), ('depth', 'NN'), ('good', 'JJ'), ('ill', 'NN'), ('mystery', 'NN'), ('binds', 'NNS'), ('still', 'RB'), ('torrent', 'JJ'), ('fountain', 'NN'), ('red', 'JJ'), ('cliff', 'NN'), ('mountain', 'NN'), ('sun', 'NN'), ('round', 'NN'), ('rolled', 'VBD'), ('autumn', 'NN'), ('tint', 'NN'), ('gold', 'NN'), ('lightning', 'VBG'), ('sky', 'NN'), ('passed', 'VBD'), ('flying', 'VBG'), ('thunder', 'NN'), ('storm', 'NN'), ('cloud', 'NN'), ('took', 'VBD'), ('form', 'NN'), ('rest', 'NN'), ('heaven', 'VBN'), ('blue', 'JJ'), ('demon', 'NN'), ('view', 'NN')]","['passed', 'took', 'bring', 'saw', 'loved', 'heaven', 'lightning', 'seen', 'rolled', 'taken', 'flying', 'awaken']","['loved', 'red', 'blue', 'good', 'common', 'torrent']","['rest', 'drawn', 'others', 'mystery', 'source', 'sun', 'fountain', 'gold', 'round', 'view', 'storm', 'depth', 'ill', 'hour', 'binds', 'passions', 'tint', 'thunder', 'joy', 'sky', 'cloud', 'autumn', 'sorrow', 'life', 'mountain', 'heart', 'cliff', 'demon', 'spring', 'dawn', 'childhood', 'tone', 'stormy', 'form']","['alone', 'still']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+4,An Enigma,"""Seldom we find,"" says Solomon Don Dunce,
+        ""Half an idea in the profoundest sonnet.
+      Through all the flimsy things we see at once
+        As easily as through a Naples bonnet-
+        Trash of all trash!- how can a lady don it?
+      Yet heavier far than your Petrarchan stuff-
+      Owl-downy nonsense that the faintest puff
+        Twirls into trunk-paper the while you con it.""
+      And, veritably, Sol is right enough.
+      The general tuckermanities are arrant
+      Bubbles- ephemeral and so transparent-
+        But this is, now- you may depend upon it-
+      Stable, opaque, immortal- all by dint
+      Of the dear names that he concealed within 't.     ",seldom find says solomon dunce half idea profoundest sonnet flimsy things see easily naples bonnet trash trash lady yet heavier far petrarchan stuff owl downy nonsense faintest puff twirls trunk paper con veritably sol right enough general tuckermanities arrant bubbles ephemeral transparent may depend upon stable opaque immortal dint dear names concealed within,"[('seldom', 'RB'), ('find', 'VB'), ('says', 'VBZ'), ('solomon', 'JJ'), ('dunce', 'NN'), ('half', 'NN'), ('idea', 'NN'), ('profoundest', 'JJS'), ('sonnet', 'NN'), ('flimsy', 'JJ'), ('things', 'NNS'), ('see', 'VBP'), ('easily', 'RB'), ('naples', 'NNS'), ('bonnet', 'VBP'), ('trash', 'JJ'), ('trash', 'NN'), ('lady', 'NN'), ('yet', 'RB'), ('heavier', 'JJR'), ('far', 'RB'), ('petrarchan', 'JJ'), ('stuff', 'NN'), ('owl', 'NN'), ('downy', 'NN'), ('nonsense', 'NN'), ('faintest', 'JJS'), ('puff', 'NN'), ('twirls', 'NN'), ('trunk', 'JJ'), ('paper', 'NN'), ('con', 'NN'), ('veritably', 'RB'), ('sol', 'RB'), ('right', 'RB'), ('enough', 'RB'), ('general', 'JJ'), ('tuckermanities', 'NNS'), ('arrant', 'VBP'), ('bubbles', 'NNS'), ('ephemeral', 'JJ'), ('transparent', 'NN'), ('may', 'MD'), ('depend', 'VB'), ('upon', 'IN'), ('stable', 'JJ'), ('opaque', 'JJ'), ('immortal', 'JJ'), ('dint', 'NN'), ('dear', 'JJ'), ('names', 'NNS'), ('concealed', 'VBD'), ('within', 'IN')]","['arrant', 'find', 'concealed', 'see', 'says', 'depend', 'bonnet']","['immortal', 'trunk', 'solomon', 'general', 'stable', 'petrarchan', 'dear', 'profoundest', 'faintest', 'opaque', 'ephemeral', 'trash', 'heavier', 'flimsy']","['naples', 'con', 'trash', 'twirls', 'idea', 'nonsense', 'half', 'downy', 'sonnet', 'tuckermanities', 'dint', 'stuff', 'paper', 'names', 'bubbles', 'dunce', 'things', 'owl', 'transparent', 'lady', 'puff']","['enough', 'seldom', 'easily', 'far', 'veritably', 'right', 'sol', 'yet']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+5,Annabel Lee,"It was many and many a year ago,
+
+          In a kingdom by the sea,
+
+    That a maiden there lived whom you may know
+
+          By the name of ANNABEL LEE;
+
+    And this maiden she lived with no other thought
+
+          Than to love and be loved by me.
+
+
+    I was a child and she was a child,
+
+          In this kingdom by the sea;
+
+    But we loved with a love that was more than love-
+
+          I and my Annabel Lee;
+
+    With a love that the winged seraphs of heaven
+
+          Coveted her and me.
+
+
+    And this was the reason that, long ago,
+
+          In this kingdom by the sea,
+
+    A wind blew out of a cloud, chilling
+
+          My beautiful Annabel Lee;
+
+    So that her highborn kinsman came
+
+          And bore her away from me,
+
+    To shut her up in a sepulchre
+
+          In this kingdom by the sea.
+
+
+    The angels, not half so happy in heaven,
+
+          Went envying her and me-
+
+    Yes!- that was the reason (as all men know,
+
+          In this kingdom by the sea)
+
+    That the wind came out of the cloud by night,
+
+          Chilling and killing my Annabel Lee.
+
+
+    But our love it was stronger by far than the love
+
+          Of those who were older than we-
+
+          Of many far wiser than we-
+
+    And neither the angels in heaven above,
+
+          Nor the demons down under the sea,
+
+    Can ever dissever my soul from the soul
+
+          Of the beautiful Annabel Lee.
+
+
+    For the moon never beams without bringing me dreams
+
+          Of the beautiful Annabel Lee;
+
+    And the stars never rise but I feel the bright eyes
+
+          Of the beautiful Annabel Lee;
+
+    And so, all the night-tide, I lie down by the side
+
+    Of my darling- my darling- my life and my bride,
+
+          In the sepulchre there by the sea,
+
+          In her tomb by the sounding sea.     ",many many year ago kingdom sea maiden lived may know name annabel lee maiden lived thought love loved child child kingdom sea loved love love annabel lee love winged seraphs heaven coveted reason long ago kingdom sea wind blew cloud chilling beautiful annabel lee highborn kinsman came bore away shut sepulchre kingdom sea angels half happy heaven went envying yes reason men know kingdom sea wind came cloud night chilling killing annabel lee love stronger far love older many far wiser neither angels heaven demons sea ever dissever soul soul beautiful annabel lee moon never beams without bringing dreams beautiful annabel lee stars never rise feel bright eyes beautiful annabel lee night tide lie side darling darling life bride sepulchre sea tomb sounding sea,"[('many', 'JJ'), ('many', 'JJ'), ('year', 'NN'), ('ago', 'RB'), ('kingdom', 'VBD'), ('sea', 'NN'), ('maiden', 'NN'), ('lived', 'VBD'), ('may', 'MD'), ('know', 'VB'), ('name', 'NN'), ('annabel', 'JJ'), ('lee', 'NN'), ('maiden', 'NNP'), ('lived', 'VBD'), ('thought', 'VBN'), ('love', 'RB'), ('loved', 'VBN'), ('child', 'NN'), ('child', 'NN'), ('kingdom', 'NN'), ('sea', 'NN'), ('loved', 'VBD'), ('love', 'VB'), ('love', 'NN'), ('annabel', 'NN'), ('lee', 'NN'), ('love', 'VBP'), ('winged', 'VBN'), ('seraphs', 'NN'), ('heaven', 'RB'), ('coveted', 'VBD'), ('reason', 'NN'), ('long', 'RB'), ('ago', 'RB'), ('kingdom', 'VB'), ('sea', 'NN'), ('wind', 'IN'), ('blew', 'JJ'), ('cloud', 'NN'), ('chilling', 'VBG'), ('beautiful', 'JJ'), ('annabel', 'NN'), ('lee', 'NN'), ('highborn', 'JJ'), ('kinsman', 'NN'), ('came', 'VBD'), ('bore', 'RB'), ('away', 'RB'), ('shut', 'JJ'), ('sepulchre', 'JJ'), ('kingdom', 'NN'), ('sea', 'NN'), ('angels', 'IN'), ('half', 'NN'), ('happy', 'JJ'), ('heaven', 'JJ'), ('went', 'VBD'), ('envying', 'VBG'), ('yes', 'NNS'), ('reason', 'NN'), ('men', 'NNS'), ('know', 'VBP'), ('kingdom', 'NN'), ('sea', 'NN'), ('wind', 'NN'), ('came', 'VBD'), ('cloud', 'JJ'), ('night', 'NN'), ('chilling', 'VBG'), ('killing', 'VBG'), ('annabel', 'JJ'), ('lee', 'NN'), ('love', 'NN'), ('stronger', 'JJR'), ('far', 'RB'), ('love', 'JJR'), ('older', 'JJR'), ('many', 'JJ'), ('far', 'RB'), ('wiser', 'VBP'), ('neither', 'DT'), ('angels', 'NNS'), ('heaven', 'VBN'), ('demons', 'NNS'), ('sea', 'VBP'), ('ever', 'RB'), ('dissever', 'RB'), ('soul', 'JJ'), ('soul', 'NN'), ('beautiful', 'JJ'), ('annabel', 'NN'), ('lee', 'NN'), ('moon', 'NN'), ('never', 'RB'), ('beams', 'VBZ'), ('without', 'IN'), ('bringing', 'VBG'), ('dreams', 'NNS'), ('beautiful', 'JJ'), ('annabel', 'JJ'), ('lee', 'NN'), ('stars', 'NNS'), ('never', 'RB'), ('rise', 'VBP'), ('feel', 'NN'), ('bright', 'JJ'), ('eyes', 'NNS'), ('beautiful', 'JJ'), ('annabel', 'RB'), ('lee', 'JJ'), ('night', 'NN'), ('tide', 'NN'), ('lie', 'VBD'), ('side', 'JJ'), ('darling', 'VBG'), ('darling', 'VBG'), ('life', 'NN'), ('bride', 'NN'), ('sepulchre', 'VBD'), ('sea', 'NN'), ('tomb', 'NN'), ('sounding', 'VBG'), ('sea', 'NN')]","['lived', 'winged', 'bringing', 'coveted', 'rise', 'thought', 'came', 'chilling', 'lie', 'beams', 'love', 'kingdom', 'darling', 'sepulchre', 'sounding', 'loved', 'wiser', 'heaven', 'killing', 'know', 'went', 'sea', 'envying']","['highborn', 'older', 'love', 'heaven', 'blew', 'stronger', 'sepulchre', 'shut', 'beautiful', 'cloud', 'many', 'soul', 'lee', 'happy', 'side', 'annabel', 'bright']","['name', 'maiden', 'demons', 'child', 'stars', 'year', 'reason', 'half', 'yes', 'lee', 'soul', 'seraphs', 'eyes', 'love', 'bride', 'kingdom', 'feel', 'angels', 'cloud', 'dreams', 'annabel', 'life', 'tomb', 'men', 'wind', 'tide', 'moon', 'night', 'sea', 'kinsman']","['ever', 'love', 'heaven', 'far', 'long', 'never', 'dissever', 'bore', 'annabel', 'away', 'ago']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+6,Dreamland,"By a route obscure and lonely,
+Haunted by ill angels only,
+Where an Eidolon, named NIGHT,
+On a black throne reigns upright,
+I have reached these lands but newly
+From an ultimate dim Thule-
+From a wild clime that lieth, sublime,
+Out of SPACE- out of TIME.
+
+Bottomless vales and boundless floods,
+And chasms, and caves, and Titan woods,
+With forms that no man can discover
+For the tears that drip all over;
+Mountains toppling evermore
+Into seas without a shore;
+Seas that restlessly aspire,
+Surging, unto skies of fire;
+Lakes that endlessly outspread
+Their lone waters- lone and dead,-
+Their still waters- still and chilly
+With the snows of the lolling lily.
+
+By the lakes that thus outspread
+Their lone waters, lone and dead,-
+Their sad waters, sad and chilly
+With the snows of the lolling lily,-
+By the mountains- near the river
+Murmuring lowly, murmuring ever,-
+By the grey woods,- by the swamp
+Where the toad and the newt encamp-
+By the dismal tarns and pools
+Where dwell the Ghouls,-
+By each spot the most unholy-
+In each nook most melancholy-
+There the traveller meets aghast
+Sheeted Memories of the Past-
+Shrouded forms that start and sigh
+As they pass the wanderer by-
+White-robed forms of friends long given,
+In agony, to the Earth- and Heaven.
+
+For the heart whose woes are legion
+'Tis a peaceful, soothing region-
+For the spirit that walks in shadow
+'Tis- oh, 'tis an Eldorado!
+But the traveller, travelling through it,
+May not- dare not openly view it!
+Never its mysteries are exposed
+To the weak human eye unclosed;
+So wills its King, who hath forbid
+The uplifting of the fringed lid;
+And thus the sad Soul that here passes
+Beholds it but through darkened glasses.
+
+By a route obscure and lonely,
+Haunted by ill angels only,
+Where an Eidolon, named NIGHT,
+On a black throne reigns upright,
+I have wandered home but newly
+From this ultimate dim Thule.     ",route obscure lonely haunted ill angels eidolon named night black throne reigns upright reached lands newly ultimate dim thule wild clime lieth sublime space time bottomless vales boundless floods chasms caves titan woods forms man discover tears drip mountains toppling evermore seas without shore seas restlessly aspire surging unto skies fire lakes endlessly outspread lone waters lone dead still waters still chilly snows lolling lily lakes thus outspread lone waters lone dead sad waters sad chilly snows lolling lily mountains near river murmuring lowly murmuring ever grey woods swamp toad newt encamp dismal tarns pools dwell ghouls spot unholy nook melancholy traveller meets aghast sheeted memories past shrouded forms start sigh pass wanderer white robed forms friends long given agony earth heaven heart whose woes legion peaceful soothing region spirit walks shadow oh eldorado traveller travelling may dare openly view never mysteries exposed weak human eye unclosed wills king hath forbid uplifting fringed lid thus sad soul passes beholds darkened glasses route obscure lonely haunted ill angels eidolon named night black throne reigns upright wandered home newly ultimate dim thule,"[('route', 'NN'), ('obscure', 'NN'), ('lonely', 'RB'), ('haunted', 'VBN'), ('ill', 'NN'), ('angels', 'NNS'), ('eidolon', 'NN'), ('named', 'VBN'), ('night', 'NN'), ('black', 'JJ'), ('throne', 'NN'), ('reigns', 'NN'), ('upright', 'JJ'), ('reached', 'VBD'), ('lands', 'NNS'), ('newly', 'RB'), ('ultimate', 'JJ'), ('dim', 'NN'), ('thule', 'NN'), ('wild', 'JJ'), ('clime', 'NN'), ('lieth', 'NN'), ('sublime', 'JJ'), ('space', 'NN'), ('time', 'NN'), ('bottomless', 'NN'), ('vales', 'NNS'), ('boundless', 'RB'), ('floods', 'NNS'), ('chasms', 'VBP'), ('caves', 'NNS'), ('titan', 'VBP'), ('woods', 'NNS'), ('forms', 'NNS'), ('man', 'NN'), ('discover', 'NN'), ('tears', 'VBZ'), ('drip', 'JJ'), ('mountains', 'NNS'), ('toppling', 'VBG'), ('evermore', 'RB'), ('seas', 'NNS'), ('without', 'IN'), ('shore', 'NN'), ('seas', 'NNS'), ('restlessly', 'RB'), ('aspire', 'VBP'), ('surging', 'VBG'), ('unto', 'JJ'), ('skies', 'NNS'), ('fire', 'VBP'), ('lakes', 'NNS'), ('endlessly', 'RB'), ('outspread', 'VBP'), ('lone', 'NN'), ('waters', 'NNS'), ('lone', 'VBP'), ('dead', 'JJ'), ('still', 'RB'), ('waters', 'NNS'), ('still', 'RB'), ('chilly', 'RB'), ('snows', 'VBZ'), ('lolling', 'VBG'), ('lily', 'RB'), ('lakes', 'VBZ'), ('thus', 'RB'), ('outspread', 'JJ'), ('lone', 'NN'), ('waters', 'NNS'), ('lone', 'VBP'), ('dead', 'JJ'), ('sad', 'JJ'), ('waters', 'NNS'), ('sad', 'VBP'), ('chilly', 'RB'), ('snows', 'VBZ'), ('lolling', 'VBG'), ('lily', 'RB'), ('mountains', 'NNS'), ('near', 'IN'), ('river', 'NN'), ('murmuring', 'VBG'), ('lowly', 'RB'), ('murmuring', 'VBG'), ('ever', 'RB'), ('grey', 'VBN'), ('woods', 'NNS'), ('swamp', 'JJ'), ('toad', 'NN'), ('newt', 'NN'), ('encamp', 'NN'), ('dismal', 'JJ'), ('tarns', 'NNS'), ('pools', 'NNS'), ('dwell', 'VBP'), ('ghouls', 'NNS'), ('spot', 'NN'), ('unholy', 'JJ'), ('nook', 'NN'), ('melancholy', 'NN'), ('traveller', 'NN'), ('meets', 'NNS'), ('aghast', 'RB'), ('sheeted', 'VBD'), ('memories', 'NNS'), ('past', 'IN'), ('shrouded', 'JJ'), ('forms', 'NNS'), ('start', 'VBP'), ('sigh', 'JJ'), ('pass', 'NN'), ('wanderer', 'NN'), ('white', 'JJ'), ('robed', 'VBD'), ('forms', 'NNS'), ('friends', 'NNS'), ('long', 'RB'), ('given', 'VBN'), ('agony', 'RP'), ('earth', 'JJ'), ('heaven', 'JJ'), ('heart', 'NN'), ('whose', 'WP$'), ('woes', 'NNS'), ('legion', 'VBP'), ('peaceful', 'JJ'), ('soothing', 'JJ'), ('region', 'NN'), ('spirit', 'NN'), ('walks', 'NNS'), ('shadow', 'VBP'), ('oh', 'JJ'), ('eldorado', 'FW'), ('traveller', 'NN'), ('travelling', 'NN'), ('may', 'MD'), ('dare', 'VB'), ('openly', 'RB'), ('view', 'NN'), ('never', 'RB'), ('mysteries', 'NNS'), ('exposed', 'VBD'), ('weak', 'JJ'), ('human', 'JJ'), ('eye', 'NN'), ('unclosed', 'JJ'), ('wills', 'NNS'), ('king', 'VBG'), ('hath', 'NN'), ('forbid', 'NN'), ('uplifting', 'VBG'), ('fringed', 'VBD'), ('lid', 'JJ'), ('thus', 'RB'), ('sad', 'JJ'), ('soul', 'NN'), ('passes', 'NNS'), ('beholds', 'NNS'), ('darkened', 'VBD'), ('glasses', 'NNS'), ('route', 'JJ'), ('obscure', 'VBP'), ('lonely', 'RB'), ('haunted', 'VBN'), ('ill', 'NN'), ('angels', 'NNS'), ('eidolon', 'NN'), ('named', 'VBN'), ('night', 'NN'), ('black', 'JJ'), ('throne', 'NN'), ('reigns', 'NN'), ('upright', 'JJ'), ('wandered', 'VBD'), ('home', 'NN'), ('newly', 'RB'), ('ultimate', 'JJ'), ('dim', 'NN'), ('thule', 'NN')]","['grey', 'aspire', 'legion', 'haunted', 'snows', 'murmuring', 'shadow', 'sheeted', 'lone', 'dwell', 'dare', 'lolling', 'fringed', 'king', 'exposed', 'chasms', 'titan', 'obscure', 'toppling', 'robed', 'fire', 'surging', 'lakes', 'wandered', 'start', 'reached', 'uplifting', 'named', 'given', 'sad', 'darkened', 'outspread', 'tears']","['unclosed', 'ultimate', 'unto', 'unholy', 'lid', 'shrouded', 'sigh', 'sublime', 'soothing', 'earth', 'peaceful', 'black', 'dead', 'route', 'drip', 'weak', 'dismal', 'wild', 'sad', 'white', 'outspread', 'heaven', 'human', 'upright', 'swamp', 'oh']","['lands', 'seas', 'melancholy', 'eye', 'throne', 'traveller', 'pass', 'region', 'spirit', 'newt', 'forbid', 'floods', 'lone', 'skies', 'eidolon', 'view', 'lieth', 'glasses', 'home', 'toad', 'nook', 'walks', 'ill', 'soul', 'obscure', 'woes', 'mysteries', 'man', 'memories', 'travelling', 'thule', 'route', 'dim', 'caves', 'lakes', 'waters', 'encamp', 'vales', 'angels', 'river', 'tarns', 'friends', 'reigns', 'ghouls', 'passes', 'clime', 'meets', 'spot', 'beholds', 'shore', 'pools', 'heart', 'woods', 'space', 'night', 'mountains', 'wanderer', 'wills', 'time', 'forms', 'hath', 'discover', 'bottomless']","['lowly', 'newly', 'thus', 'ever', 'evermore', 'restlessly', 'lonely', 'endlessly', 'chilly', 'lily', 'long', 'never', 'still', 'openly', 'aghast', 'boundless']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+7,Eldorado,"Gaily bedight,
+
+                   A gallant knight,
+
+               In sunshine and in shadow,
+
+                   Had journeyed long,
+
+                   Singing a song,
+
+               In search of Eldorado.
+
+
+                   But he grew old-
+
+                   This knight so bold-
+
+               And o'er his heart a shadow
+
+                   Fell as he found
+
+                   No spot of ground
+
+               That looked like Eldorado.
+
+
+                   And, as his strength
+
+                   Failed him at length,
+
+               He met a pilgrim shadow-
+
+                   ""Shadow,"" said he,
+
+                   ""Where can it be-
+
+               This land of Eldorado?""
+
+
+                   ""Over the Mountains
+
+                   Of the Moon,
+
+               Down the Valley of the Shadow,
+
+                   Ride, boldly ride,""
+
+                   The shade replied-
+
+               ""If you seek for Eldorado!""     ",gaily bedight gallant knight sunshine shadow journeyed long singing song search eldorado grew old knight bold heart shadow fell found spot ground looked like eldorado strength failed length met pilgrim shadow shadow said land eldorado mountains moon valley shadow ride boldly ride shade replied seek eldorado,"[('gaily', 'RB'), ('bedight', 'VBN'), ('gallant', 'JJ'), ('knight', 'NN'), ('sunshine', 'NN'), ('shadow', 'NN'), ('journeyed', 'VBD'), ('long', 'JJ'), ('singing', 'NN'), ('song', 'NN'), ('search', 'NN'), ('eldorado', 'NN'), ('grew', 'VBD'), ('old', 'JJ'), ('knight', 'NN'), ('bold', 'JJ'), ('heart', 'NN'), ('shadow', 'NN'), ('fell', 'VBD'), ('found', 'VBN'), ('spot', 'RB'), ('ground', 'NN'), ('looked', 'VBD'), ('like', 'IN'), ('eldorado', 'JJ'), ('strength', 'NN'), ('failed', 'VBD'), ('length', 'NN'), ('met', 'VBD'), ('pilgrim', 'JJ'), ('shadow', 'NN'), ('shadow', 'NN'), ('said', 'VBD'), ('land', 'NN'), ('eldorado', 'NN'), ('mountains', 'VBZ'), ('moon', 'JJ'), ('valley', 'NN'), ('shadow', 'NN'), ('ride', 'NN'), ('boldly', 'RB'), ('ride', 'JJ'), ('shade', 'VBD'), ('replied', 'JJ'), ('seek', 'NN'), ('eldorado', 'NN')]","['shade', 'bedight', 'failed', 'journeyed', 'met', 'fell', 'looked', 'mountains', 'found', 'grew', 'said']","['old', 'replied', 'ride', 'moon', 'long', 'bold', 'gallant', 'eldorado', 'pilgrim']","['length', 'knight', 'heart', 'ride', 'ground', 'land', 'seek', 'search', 'sunshine', 'valley', 'singing', 'shadow', 'song', 'strength', 'eldorado']","['spot', 'boldly', 'gaily']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+8,For Annie,"Thank Heaven! the crisis-
+
+              The danger is past,
+
+            And the lingering illness
+
+              Is over at last-
+
+            And the fever called ""Living""
+
+              Is conquered at last.
+
+
+            Sadly, I know
+
+              I am shorn of my strength,
+
+            And no muscle I move
+
+              As I lie at full length-
+
+            But no matter!-I feel
+
+              I am better at length.
+
+
+            And I rest so composedly,
+
+              Now, in my bed
+
+            That any beholder
+
+              Might fancy me dead-
+
+            Might start at beholding me,
+
+              Thinking me dead.
+
+
+            The moaning and groaning,
+
+              The sighing and sobbing,
+
+            Are quieted now,
+
+              With that horrible throbbing
+
+            At heart:- ah, that horrible,
+
+              Horrible throbbing!
+
+
+            The sickness- the nausea-
+
+              The pitiless pain-
+
+            Have ceased, with the fever
+
+              That maddened my brain-
+
+            With the fever called ""Living""
+
+              That burned in my brain.
+
+
+            And oh! of all tortures
+
+              That torture the worst
+
+            Has abated- the terrible
+
+              Torture of thirst
+
+            For the naphthaline river
+
+              Of Passion accurst:-
+
+            I have drunk of a water
+
+              That quenches all thirst:-
+
+
+            Of a water that flows,
+
+              With a lullaby sound,
+
+            From a spring but a very few
+
+              Feet under ground-
+
+            From a cavern not very far
+
+              Down under ground.
+
+
+            And ah! let it never
+
+              Be foolishly said
+
+            That my room it is gloomy
+
+              And narrow my bed;
+
+            For man never slept
+
+              In a different bed-
+
+            And, to sleep, you must slumber
+
+              In just such a bed.
+
+
+            My tantalized spirit
+
+              Here blandly reposes,
+
+            Forgetting, or never
+
+              Regretting its roses-
+
+            Its old agitations
+
+              Of myrtles and roses:
+
+
+            For now, while so quietly
+
+              Lying, it fancies
+
+            A holier odor
+
+              About it, of pansies-
+
+            A rosemary odor,
+
+              Commingled with pansies-
+
+            With rue and the beautiful
+
+              Puritan pansies.
+
+
+            And so it lies happily,
+
+              Bathing in many
+
+            A dream of the truth
+
+              And the beauty of Annie-
+
+            Drowned in a bath
+
+              Of the tresses of Annie.
+
+
+            She tenderly kissed me,
+
+              She fondly caressed,
+
+            And then I fell gently
+
+              To sleep on her breast-
+
+            Deeply to sleep
+
+              From the heaven of her breast.
+
+
+            When the light was extinguished,
+
+              She covered me warm,
+
+            And she prayed to the angels
+
+              To keep me from harm-
+
+            To the queen of the angels
+
+              To shield me from harm.
+
+
+            And I lie so composedly,
+
+              Now, in my bed,
+
+            (Knowing her love)
+
+              That you fancy me dead-
+
+            And I rest so contentedly,
+
+              Now, in my bed,
+
+            (With her love at my breast)
+
+              That you fancy me dead-
+
+            That you shudder to look at me,
+
+              Thinking me dead.
+
+
+            But my heart it is brighter
+
+              Than all of the many
+
+            Stars in the sky,
+
+              For it sparkles with Annie-
+
+            It glows with the light
+
+              Of the love of my Annie-
+
+            With the thought of the light
+
+              Of the eyes of my Annie.      ",thank heaven crisis danger past lingering illness last fever called living conquered last sadly know shorn strength muscle move lie full length matter feel better length rest composedly bed beholder might fancy dead might start beholding thinking dead moaning groaning sighing sobbing quieted horrible throbbing heart ah horrible horrible throbbing sickness nausea pitiless pain ceased fever maddened brain fever called living burned brain oh tortures torture worst abated terrible torture thirst naphthaline river passion accurst drunk water quenches thirst water flows lullaby sound spring feet ground cavern far ground ah let never foolishly said room gloomy narrow bed man never slept different bed sleep must slumber bed tantalized spirit blandly reposes forgetting never regretting roses old agitations myrtles roses quietly lying fancies holier odor pansies rosemary odor commingled pansies rue beautiful puritan pansies lies happily bathing many dream truth beauty annie drowned bath tresses annie tenderly kissed fondly caressed fell gently sleep breast deeply sleep heaven breast light extinguished covered warm prayed angels keep harm queen angels shield harm lie composedly bed knowing love fancy dead rest contentedly bed love breast fancy dead shudder look thinking dead heart brighter many stars sky sparkles annie glows light love annie thought light eyes annie,"[('thank', 'NN'), ('heaven', 'NN'), ('crisis', 'NN'), ('danger', 'NN'), ('past', 'IN'), ('lingering', 'VBG'), ('illness', 'NN'), ('last', 'JJ'), ('fever', 'NN'), ('called', 'VBD'), ('living', 'NN'), ('conquered', 'VBN'), ('last', 'JJ'), ('sadly', 'RB'), ('know', 'VBP'), ('shorn', 'JJ'), ('strength', 'NN'), ('muscle', 'NN'), ('move', 'NN'), ('lie', 'CC'), ('full', 'JJ'), ('length', 'NN'), ('matter', 'NN'), ('feel', 'VB'), ('better', 'RB'), ('length', 'NN'), ('rest', 'NN'), ('composedly', 'RB'), ('bed', 'VBD'), ('beholder', 'NN'), ('might', 'MD'), ('fancy', 'VB'), ('dead', 'JJ'), ('might', 'MD'), ('start', 'VB'), ('beholding', 'VBG'), ('thinking', 'VBG'), ('dead', 'JJ'), ('moaning', 'VBG'), ('groaning', 'VBG'), ('sighing', 'VBG'), ('sobbing', 'VBG'), ('quieted', 'VBN'), ('horrible', 'JJ'), ('throbbing', 'VBG'), ('heart', 'NN'), ('ah', 'NN'), ('horrible', 'JJ'), ('horrible', 'JJ'), ('throbbing', 'VBG'), ('sickness', 'NN'), ('nausea', 'NN'), ('pitiless', 'NN'), ('pain', 'NN'), ('ceased', 'VBD'), ('fever', 'RB'), ('maddened', 'VBN'), ('brain', 'NN'), ('fever', 'NN'), ('called', 'VBD'), ('living', 'NN'), ('burned', 'VBD'), ('brain', 'NN'), ('oh', 'NN'), ('tortures', 'VBZ'), ('torture', 'JJ'), ('worst', 'RB'), ('abated', 'VBN'), ('terrible', 'JJ'), ('torture', 'NN'), ('thirst', 'JJ'), ('naphthaline', 'NN'), ('river', 'NN'), ('passion', 'NN'), ('accurst', 'RB'), ('drunk', 'JJ'), ('water', 'NN'), ('quenches', 'NNS'), ('thirst', 'VBP'), ('water', 'NN'), ('flows', 'NNS'), ('lullaby', 'VBP'), ('sound', 'JJ'), ('spring', 'NN'), ('feet', 'NNS'), ('ground', 'NN'), ('cavern', 'VBP'), ('far', 'RB'), ('ground', 'NN'), ('ah', 'JJ'), ('let', 'NN'), ('never', 'RB'), ('foolishly', 'RB'), ('said', 'VBD'), ('room', 'NN'), ('gloomy', 'NN'), ('narrow', 'JJ'), ('bed', 'NN'), ('man', 'NN'), ('never', 'RB'), ('slept', 'VBD'), ('different', 'JJ'), ('bed', 'NN'), ('sleep', 'NN'), ('must', 'MD'), ('slumber', 'VB'), ('bed', 'NN'), ('tantalized', 'VBN'), ('spirit', 'NN'), ('blandly', 'RB'), ('reposes', 'VBZ'), ('forgetting', 'VBG'), ('never', 'RB'), ('regretting', 'VBG'), ('roses', 'NNS'), ('old', 'JJ'), ('agitations', 'NNS'), ('myrtles', 'VBZ'), ('roses', 'NNS'), ('quietly', 'RB'), ('lying', 'VBG'), ('fancies', 'NNS'), ('holier', 'RBR'), ('odor', 'JJ'), ('pansies', 'NNS'), ('rosemary', 'VBP'), ('odor', 'NN'), ('commingled', 'VBN'), ('pansies', 'NNS'), ('rue', 'VBP'), ('beautiful', 'JJ'), ('puritan', 'JJ'), ('pansies', 'NNS'), ('lies', 'VBZ'), ('happily', 'RB'), ('bathing', 'VBG'), ('many', 'JJ'), ('dream', 'NN'), ('truth', 'NN'), ('beauty', 'NN'), ('annie', 'NN'), ('drowned', 'VBD'), ('bath', 'NN'), ('tresses', 'NNS'), ('annie', 'VBP'), ('tenderly', 'RB'), ('kissed', 'VBN'), ('fondly', 'RB'), ('caressed', 'VBN'), ('fell', 'VBD'), ('gently', 'RB'), ('sleep', 'JJ'), ('breast', 'NN'), ('deeply', 'RB'), ('sleep', 'JJ'), ('heaven', 'NN'), ('breast', 'NN'), ('light', 'NN'), ('extinguished', 'VBD'), ('covered', 'JJ'), ('warm', 'JJ'), ('prayed', 'NN'), ('angels', 'NNS'), ('keep', 'VB'), ('harm', 'NN'), ('queen', 'NN'), ('angels', 'NNS'), ('shield', 'VBP'), ('harm', 'JJ'), ('lie', 'NN'), ('composedly', 'RB'), ('bed', 'VBD'), ('knowing', 'VBG'), ('love', 'NN'), ('fancy', 'NN'), ('dead', 'JJ'), ('rest', 'NN'), ('contentedly', 'RB'), ('bed', 'VBD'), ('love', 'IN'), ('breast', 'NN'), ('fancy', 'JJ'), ('dead', 'JJ'), ('shudder', 'NN'), ('look', 'NN'), ('thinking', 'VBG'), ('dead', 'JJ'), ('heart', 'NN'), ('brighter', 'NN'), ('many', 'JJ'), ('stars', 'NNS'), ('sky', 'VBP'), ('sparkles', 'NNS'), ('annie', 'VBP'), ('glows', 'NNS'), ('light', 'JJ'), ('love', 'VBP'), ('annie', 'JJ'), ('thought', 'NN'), ('light', 'JJ'), ('eyes', 'NNS'), ('annie', 'VBP')]","['drowned', 'rue', 'burned', 'bathing', 'beholding', 'lullaby', 'maddened', 'called', 'forgetting', 'thirst', 'groaning', 'shield', 'slept', 'caressed', 'annie', 'myrtles', 'lying', 'reposes', 'commingled', 'quieted', 'ceased', 'lingering', 'throbbing', 'extinguished', 'lies', 'abated', 'rosemary', 'bed', 'regretting', 'love', 'feel', 'fell', 'start', 'sky', 'sighing', 'cavern', 'kissed', 'conquered', 'keep', 'thinking', 'said', 'knowing', 'tortures', 'sobbing', 'moaning', 'slumber', 'know', 'fancy', 'tantalized']","['sound', 'ah', 'sleep', 'puritan', 'last', 'odor', 'thirst', 'different', 'shorn', 'old', 'annie', 'full', 'horrible', 'dead', 'beautiful', 'many', 'harm', 'terrible', 'torture', 'drunk', 'light', 'narrow', 'fancy', 'covered', 'warm']","['truth', 'rest', 'ah', 'sleep', 'brain', 'odor', 'illness', 'pain', 'agitations', 'spirit', 'pitiless', 'bath', 'roses', 'fever', 'length', 'pansies', 'annie', 'passion', 'muscle', 'stars', 'naphthaline', 'water', 'danger', 'nausea', 'ground', 'thought', 'lie', 'matter', 'man', 'look', 'prayed', 'bed', 'eyes', 'love', 'quenches', 'crisis', 'beholder', 'river', 'gloomy', 'angels', 'sickness', 'harm', 'beauty', 'let', 'feet', 'room', 'queen', 'thank', 'torture', 'strength', 'light', 'brighter', 'flows', 'move', 'heart', 'heaven', 'glows', 'sparkles', 'fancies', 'tresses', 'dream', 'spring', 'breast', 'fancy', 'living', 'shudder', 'oh']","['composedly', 'tenderly', 'accurst', 'deeply', 'far', 'foolishly', 'blandly', 'contentedly', 'never', 'sadly', 'happily', 'quietly', 'fondly', 'gently', 'better', 'worst', 'holier', 'fever']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
+9,Tamerlane,"Kind solace in a dying hour!
+
+        Such, father, is not (now) my theme-
+
+      I will not madly deem that power
+
+          Of Earth may shrive me of the sin
+
+          Unearthly pride hath revell'd in-
+
+        I have no time to dote or dream:
+
+      You call it hope- that fire of fire!
+
+      It is but agony of desire:
+
+      If I can hope- Oh God! I can-
+
+        Its fount is holier- more divine-
+
+      I would not call thee fool, old man,
+
+        But such is not a gift of thine.
+
+
+      Know thou the secret of a spirit
+
+        Bow'd from its wild pride into shame.
+
+      O yearning heart! I did inherit
+
+        Thy withering portion with the fame,
+
+      The searing glory which hath shone
+
+      Amid the jewels of my throne,
+
+      Halo of Hell! and with a pain
+
+      Not Hell shall make me fear again-
+
+      O craving heart, for the lost flowers
+
+      And sunshine of my summer hours!
+
+      The undying voice of that dead time,
+
+      With its interminable chime,
+
+      Rings, in the spirit of a spell,
+
+      Upon thy emptiness- a knell.
+
+
+      I have not always been as now:
+
+      The fever'd diadem on my brow
+
+        I claim'd and won usurpingly-
+
+      Hath not the same fierce heirdom given
+
+        Rome to the Caesar- this to me?
+
+          The heritage of a kingly mind,
+
+      And a proud spirit which hath striven
+
+          Triumphantly with human kind.
+
+
+      On mountain soil I first drew life:
+
+        The mists of the Taglay have shed
+
+        Nightly their dews upon my head,
+
+      And, I believe, the winged strife
+
+      And tumult of the headlong air
+
+      Have nestled in my very hair.
+
+
+      So late from Heaven- that dew- it fell
+
+        (Mid dreams of an unholy night)
+
+      Upon me with the touch of Hell,
+
+        While the red flashing of the light
+
+      From clouds that hung, like banners, o'er,
+
+        Appeared to my half-closing eye
+
+        The pageantry of monarchy,
+
+      And the deep trumpet-thunder's roar
+
+        Came hurriedly upon me, telling
+
+          Of human battle, where my voice,
+
+      My own voice, silly child!- was swelling
+
+          (O! how my spirit would rejoice,
+
+      And leap within me at the cry)
+
+      The battle-cry of Victory!
+
+
+      The rain came down upon my head
+
+        Unshelter'd- and the heavy wind
+
+        Rendered me mad and deaf and blind.
+
+      It was but man, I thought, who shed
+
+        Laurels upon me: and the rush-
+
+      The torrent of the chilly air
+
+        Gurgled within my ear the crush
+
+      Of empires- with the captive's prayer-
+
+      The hum of suitors- and the tone
+
+      Of flattery 'round a sovereign's throne.
+
+
+      My passions, from that hapless hour,
+
+        Usurp'd a tyranny which men
+
+      Have deem'd, since I have reach'd to power,
+
+          My innate nature- be it so:
+
+        But father, there liv'd one who, then,
+
+      Then- in my boyhood- when their fire
+
+          Burn'd with a still intenser glow,
+
+      (For passion must, with youth, expire)
+
+        E'en then who knew this iron heart
+
+        In woman's weakness had a part.
+
+
+      I have no words- alas!- to tell
+
+      The loveliness of loving well!
+
+      Nor would I now attempt to trace
+
+      The more than beauty of a face
+
+      Whose lineaments, upon my mind,
+
+      Are- shadows on th' unstable wind:
+
+      Thus I remember having dwelt
+
+        Some page of early lore upon,
+
+      With loitering eye, till I have felt
+
+      The letters- with their meaning- melt
+
+        To fantasies- with none.
+
+
+      O, she was worthy of all love!
+
+        Love- as in infancy was mine-
+
+      'Twas such as angel minds above
+
+        Might envy; her young heart the shrine
+
+      On which my every hope and thought
+
+        Were incense- then a goodly gift,
+
+          For they were childish and upright-
+
+      Pure- as her young example taught:
+
+        Why did I leave it, and, adrift,
+
+          Trust to the fire within, for light?
+
+
+      We grew in age- and love- together,
+
+        Roaming the forest, and the wild;
+
+      My breast her shield in wintry weather-
+
+        And when the friendly sunshine smil'd,
+
+      And she would mark the opening skies,
+
+      I saw no Heaven- but in her eyes.
+
+
+      Young Love's first lesson is- the heart:
+
+        For 'mid that sunshine, and those smiles,
+
+      When, from our little cares apart,
+
+        And laughing at her girlish wiles,
+
+      I'd throw me on her throbbing breast,
+
+        And pour my spirit out in tears-
+
+      There was no need to speak the rest-
+
+        No need to quiet any fears
+
+      Of her- who ask'd no reason why,
+
+      But turn'd on me her quiet eye!
+
+
+      Yet more than worthy of the love
+
+      My spirit struggled with, and strove,
+
+      When, on the mountain peak, alone,
+
+      Ambition lent it a new tone-
+
+      I had no being- but in thee:
+
+        The world, and all it did contain
+
+      In the earth- the air- the sea-
+
+        Its joy- its little lot of pain
+
+      That was new pleasure- the ideal,
+
+        Dim vanities of dreams by night-
+
+
+      And dimmer nothings which were real-
+
+        (Shadows- and a more shadowy light!)
+
+      Parted upon their misty wings,
+
+        And, so, confusedly, became
+
+        Thine image, and- a name- a name!
+
+      Two separate- yet most intimate things.
+
+
+      I was ambitious- have you known
+
+        The passion, father? You have not:
+
+      A cottager, I mark'd a throne
+
+      Of half the world as all my own,
+
+        And murmur'd at such lowly lot-
+
+      But, just like any other dream,
+
+        Upon the vapour of the dew
+
+      My own had past, did not the beam
+
+        Of beauty which did while it thro'
+
+      The minute- the hour- the day- oppress
+
+      My mind with double loveliness.
+
+
+      We walk'd together on the crown
+
+      Of a high mountain which look'd down
+
+      Afar from its proud natural towers
+
+        Of rock and forest, on the hills-
+
+      The dwindled hills! begirt with bowers,
+
+        And shouting with a thousand rills.
+
+
+      I spoke to her of power and pride,
+
+        But mystically- in such guise
+
+      That she might deem it nought beside
+
+        The moment's converse; in her eyes
+
+      I read, perhaps too carelessly-
+
+        A mingled feeling with my own-
+
+      The flush on her bright cheek, to me
+
+        Seem'd to become a queenly throne
+
+      Too well that I should let it be
+
+        Light in the wilderness alone.
+
+
+      I wrapp'd myself in grandeur then,
+
+        And donn'd a visionary crown-
+
+          Yet it was not that Fantasy
+
+          Had thrown her mantle over me-
+
+      But that, among the rabble- men,
+
+        Lion ambition is chained down-
+
+      And crouches to a keeper's hand-
+
+      Not so in deserts where the grand-
+
+      The wild- the terrible conspire
+
+      With their own breath to fan his fire.
+
+
+      Look 'round thee now on Samarcand!
+
+        Is not she queen of Earth? her pride
+
+      Above all cities? in her hand
+
+        Their destinies? in all beside
+
+      Of glory which the world hath known
+
+      Stands she not nobly and alone?
+
+      Falling- her veriest stepping-stone
+
+      Shall form the pedestal of a throne-
+
+      And who her sovereign? Timour- he
+
+        Whom the astonished people saw
+
+      Striding o'er empires haughtily
+
+        A diadem'd outlaw!
+
+
+      O, human love! thou spirit given
+
+      On Earth, of all we hope in Heaven!
+
+      Which fall'st into the soul like rain
+
+      Upon the Siroc-wither'd plain,
+
+      And, failing in thy power to bless,
+
+      But leav'st the heart a wilderness!
+
+      Idea! which bindest life around
+
+      With music of so strange a sound,
+
+      And beauty of so wild a birth-
+
+      Farewell! for I have won the Earth.
+
+
+      When Hope, the eagle that tower'd, could see
+
+        No cliff beyond him in the sky,
+
+      His pinions were bent droopingly-
+
+        And homeward turn'd his soften'd eye.
+
+      'Twas sunset: when the sun will part
+
+      There comes a sullenness of heart
+
+      To him who still would look upon
+
+      The glory of the summer sun.
+
+      That soul will hate the ev'ning mist,
+
+      So often lovely, and will list
+
+      To the sound of the coming darkness (known
+
+      To those whose spirits hearken) as one
+
+      Who, in a dream of night, would fly
+
+      But cannot from a danger nigh.
+
+
+      What tho' the moon- the white moon
+
+      Shed all the splendour of her noon,
+
+      Her smile is chilly, and her beam,
+
+      In that time of dreariness, will seem
+
+      (So like you gather in your breath)
+
+      A portrait taken after death.
+
+      And boyhood is a summer sun
+
+      Whose waning is the dreariest one-
+
+      For all we live to know is known,
+
+      And all we seek to keep hath flown-
+
+      Let life, then, as the day-flower, fall
+
+      With the noon-day beauty- which is all.
+
+
+      I reach'd my home- my home no more
+
+        For all had flown who made it so.
+
+      I pass'd from out its mossy door,
+
+        And, tho' my tread was soft and low,
+
+      A voice came from the threshold stone
+
+      Of one whom I had earlier known-
+
+        O, I defy thee, Hell, to show
+
+        On beds of fire that burn below,
+
+        A humbler heart- a deeper woe.
+
+
+      Father, I firmly do believe-
+
+        I know- for Death, who comes for me
+
+          From regions of the blest afar,
+
+      Where there is nothing to deceive,
+
+          Hath left his iron gate ajar,
+
+        And rays of truth you cannot see
+
+        Are flashing thro' Eternity-
+
+      I do believe that Eblis hath
+
+      A snare in every human path-
+
+      Else how, when in the holy grove
+
+      I wandered of the idol, Love,
+
+      Who daily scents his snowy wings
+
+      With incense of burnt offerings
+
+      From the most unpolluted things,
+
+      Whose pleasant bowers are yet so riven
+
+      Above with trellis'd rays from Heaven,
+
+      No mote may shun- no tiniest fly-
+
+      The lightning of his eagle eye-
+
+      How was it that Ambition crept,
+
+        Unseen, amid the revels there,
+
+      Till growing bold, he laughed and leapt
+
+        In the tangles of Love's very hair?      ",kind solace dying hour father theme madly deem power earth may shrive sin unearthly pride hath revell time dote dream call hope fire fire agony desire hope oh god fount holier divine would call thee fool old man gift thine know thou secret spirit bow wild pride shame yearning heart inherit thy withering portion fame searing glory hath shone amid jewels throne halo hell pain hell shall make fear craving heart lost flowers sunshine summer hours undying voice dead time interminable chime rings spirit spell upon thy emptiness knell always fever diadem brow claim usurpingly hath fierce heirdom given rome caesar heritage kingly mind proud spirit hath striven triumphantly human kind mountain soil first drew life mists taglay would nightly dews upon head believe winged strife tumult headlong air nestled hair late heaven dew fell mid dreams unholy night upon touch hell red flashing light clouds hung like banners appeared half closing eye pageantry monarchy deep trumpet thunder roar came hurriedly upon telling human battle voice voice silly child swelling spirit would rejoice leap within cry battle cry victory rain came upon head unshelter heavy wind rendered mad deaf blind man thought would laurels upon rush torrent chilly air gurgled within ear crush empires captive prayer hum suitors tone flattery round sovereign throne passions hapless hour usurp tyranny men deem since reach power innate nature father liv one boyhood fire burn still intenser glow passion must youth expire e en knew iron heart woman weakness part words alas tell loveliness loving well would attempt trace beauty face whose lineaments upon mind shadows th unstable wind thus remember dwelt page early lore upon loitering eye till felt letters meaning melt fantasies none worthy love love infancy mine angel minds might envy young heart shrine every hope thought incense goodly gift childish upright pure young example taught leave adrift trust fire within light grew age love together roaming forest wild breast shield wintry weather friendly sunshine smil would mark opening skies saw heaven eyes young love first lesson heart mid sunshine smiles little cares apart laughing girlish wiles would throw throbbing breast pour spirit tears need speak rest need quiet fears ask reason turn quiet eye yet worthy love spirit struggled strove mountain peak alone ambition lent new tone thee world contain earth air sea joy little lot pain new pleasure ideal dim vanities dreams night dimmer nothings real shadows shadowy light parted upon misty wings confusedly became thine image name name two separate yet intimate things ambitious known passion father cottager mark throne half world murmur lowly lot like dream upon vapour dew past beam beauty thro minute hour day oppress mind double loveliness walk together crown high mountain look afar proud natural towers rock forest hills dwindled hills begirt bowers shouting thousand rills spoke power pride mystically guise might deem nought beside moment converse eyes read perhaps carelessly mingled feeling flush bright cheek seem become queenly throne well let light wilderness alone wrapp grandeur donn visionary crown yet fantasy thrown mantle among rabble men lion ambition chained crouches keeper hand deserts grand wild terrible conspire breath fan fire look round thee samarcand queen earth pride cities hand destinies beside glory world hath known stands nobly alone falling veriest stepping stone shall form pedestal throne sovereign timour astonished people saw striding empires haughtily diadem outlaw human love thou spirit given earth hope heaven fall st soul like rain upon siroc wither plain failing thy power bless leav st heart wilderness idea bindest life around music strange sound beauty wild birth farewell earth hope eagle tower could see cliff beyond sky pinions bent droopingly homeward turn soften eye sunset sun part comes sullenness heart still would look upon glory summer sun soul hate ev ning mist often lovely list sound coming darkness known whose spirits hearken one dream night would fly cannot danger nigh tho moon white moon would splendour noon smile chilly beam time dreariness seem like gather breath portrait taken death boyhood summer sun whose waning dreariest one live know known seek keep hath flown let life day flower fall noon day beauty reach home home flown made pass mossy door tho tread soft low voice came threshold stone one earlier known defy thee hell show beds fire burn humbler heart deeper woe father firmly believe know death comes regions blest afar nothing deceive hath left iron gate ajar rays truth cannot see flashing thro eternity believe eblis hath snare every human path else holy grove wandered idol love daily scents snowy wings incense burnt offerings unpolluted things whose pleasant bowers yet riven trellis rays heaven mote may shun tiniest fly lightning eagle eye ambition crept unseen amid revels till growing bold laughed leapt tangles love hair,"[('kind', 'NN'), ('solace', 'NN'), ('dying', 'VBG'), ('hour', 'NN'), ('father', 'NN'), ('theme', 'NN'), ('madly', 'RB'), ('deem', 'JJ'), ('power', 'NN'), ('earth', 'NN'), ('may', 'MD'), ('shrive', 'VB'), ('sin', 'NN'), ('unearthly', 'JJ'), ('pride', 'NN'), ('hath', 'NN'), ('revell', 'NN'), ('time', 'NN'), ('dote', 'JJ'), ('dream', 'NN'), ('call', 'NN'), ('hope', 'VBP'), ('fire', 'NN'), ('fire', 'NN'), ('agony', 'NN'), ('desire', 'NN'), ('hope', 'NN'), ('oh', 'IN'), ('god', 'NN'), ('fount', 'NN'), ('holier', 'JJR'), ('divine', 'NN'), ('would', 'MD'), ('call', 'VB'), ('thee', 'JJ'), ('fool', 'NN'), ('old', 'JJ'), ('man', 'NN'), ('gift', 'NN'), ('thine', 'NN'), ('know', 'VBP'), ('thou', 'NN'), ('secret', 'JJ'), ('spirit', 'NN'), ('bow', 'NN'), ('wild', 'JJ'), ('pride', 'NN'), ('shame', 'NN'), ('yearning', 'VBG'), ('heart', 'NN'), ('inherit', 'NN'), ('thy', 'JJ'), ('withering', 'VBG'), ('portion', 'NN'), ('fame', 'NN'), ('searing', 'VBG'), ('glory', 'JJ'), ('hath', 'NN'), ('shone', 'NN'), ('amid', 'IN'), ('jewels', 'NNS'), ('throne', 'VBP'), ('halo', 'NN'), ('hell', 'NN'), ('pain', 'NN'), ('hell', 'VBP'), ('shall', 'MD'), ('make', 'VB'), ('fear', 'NN'), ('craving', 'VBG'), ('heart', 'NN'), ('lost', 'VBD'), ('flowers', 'NNS'), ('sunshine', 'JJ'), ('summer', 'NN'), ('hours', 'NNS'), ('undying', 'JJ'), ('voice', 'NN'), ('dead', 'JJ'), ('time', 'NN'), ('interminable', 'JJ'), ('chime', 'JJ'), ('rings', 'NNS'), ('spirit', 'NN'), ('spell', 'VBP'), ('upon', 'IN'), ('thy', 'JJ'), ('emptiness', 'NN'), ('knell', 'NN'), ('always', 'RB'), ('fever', 'RB'), ('diadem', 'JJ'), ('brow', 'NN'), ('claim', 'NN'), ('usurpingly', 'RB'), ('hath', 'JJ'), ('fierce', 'NN'), ('heirdom', 'NN'), ('given', 'VBN'), ('rome', 'JJ'), ('caesar', 'NN'), ('heritage', 'NN'), ('kingly', 'RB'), ('mind', 'VB'), ('proud', 'JJ'), ('spirit', 'NN'), ('hath', 'NN'), ('striven', 'RB'), ('triumphantly', 'RB'), ('human', 'JJ'), ('kind', 'NN'), ('mountain', 'NN'), ('soil', 'NN'), ('first', 'RB'), ('drew', 'VBD'), ('life', 'NN'), ('mists', 'NNS'), ('taglay', 'VBP'), ('would', 'MD'), ('nightly', 'RB'), ('dews', 'VB'), ('upon', 'IN'), ('head', 'NN'), ('believe', 'VBP'), ('winged', 'VBN'), ('strife', 'NN'), ('tumult', 'NN'), ('headlong', 'JJ'), ('air', 'NN'), ('nestled', 'VBD'), ('hair', 'NN'), ('late', 'RB'), ('heaven', 'JJ'), ('dew', 'NN'), ('fell', 'VBD'), ('mid', 'JJ'), ('dreams', 'NNS'), ('unholy', 'JJ'), ('night', 'NN'), ('upon', 'IN'), ('touch', 'NN'), ('hell', 'NN'), ('red', 'JJ'), ('flashing', 'NN'), ('light', 'NN'), ('clouds', 'NNS'), ('hung', 'VBP'), ('like', 'IN'), ('banners', 'NNS'), ('appeared', 'VBD'), ('half', 'NN'), ('closing', 'NN'), ('eye', 'NN'), ('pageantry', 'NN'), ('monarchy', 'JJ'), ('deep', 'JJ'), ('trumpet', 'NN'), ('thunder', 'NN'), ('roar', 'NN'), ('came', 'VBD'), ('hurriedly', 'RB'), ('upon', 'IN'), ('telling', 'VBG'), ('human', 'JJ'), ('battle', 'NN'), ('voice', 'NN'), ('voice', 'NN'), ('silly', 'RB'), ('child', 'JJ'), ('swelling', 'VBG'), ('spirit', 'NN'), ('would', 'MD'), ('rejoice', 'VB'), ('leap', 'RB'), ('within', 'IN'), ('cry', 'JJ'), ('battle', 'NN'), ('cry', 'NN'), ('victory', 'NN'), ('rain', 'NN'), ('came', 'VBD'), ('upon', 'IN'), ('head', 'NN'), ('unshelter', 'JJ'), ('heavy', 'JJ'), ('wind', 'NN'), ('rendered', 'VBD'), ('mad', 'JJ'), ('deaf', 'NN'), ('blind', 'IN'), ('man', 'NN'), ('thought', 'VBN'), ('would', 'MD'), ('laurels', 'VB'), ('upon', 'IN'), ('rush', 'JJ'), ('torrent', 'NN'), ('chilly', 'RB'), ('air', 'NN'), ('gurgled', 'VBD'), ('within', 'IN'), ('ear', 'JJ'), ('crush', 'NN'), ('empires', 'NNS'), ('captive', 'VBP'), ('prayer', 'NN'), ('hum', 'NN'), ('suitors', 'NNS'), ('tone', 'VBP'), ('flattery', 'NN'), ('round', 'NN'), ('sovereign', 'VBD'), ('throne', 'JJ'), ('passions', 'NNS'), ('hapless', 'JJ'), ('hour', 'NN'), ('usurp', 'JJ'), ('tyranny', 'JJ'), ('men', 'NNS'), ('deem', 'VBP'), ('since', 'IN'), ('reach', 'NN'), ('power', 'NN'), ('innate', 'NN'), ('nature', 'NN'), ('father', 'NN'), ('liv', 'VBD'), ('one', 'CD'), ('boyhood', 'NN'), ('fire', 'NN'), ('burn', 'NN'), ('still', 'RB'), ('intenser', 'RB'), ('glow', 'JJ'), ('passion', 'NN'), ('must', 'MD'), ('youth', 'VB'), ('expire', 'VB'), ('e', 'NN'), ('en', 'IN'), ('knew', 'FW'), ('iron', 'JJ'), ('heart', 'NN'), ('woman', 'NN'), ('weakness', 'NN'), ('part', 'NN'), ('words', 'NNS'), ('alas', 'VBP'), ('tell', 'VB'), ('loveliness', 'NN'), ('loving', 'VBG'), ('well', 'RB'), ('would', 'MD'), ('attempt', 'VB'), ('trace', 'NN'), ('beauty', 'NN'), ('face', 'NN'), ('whose', 'WP$'), ('lineaments', 'NNS'), ('upon', 'IN'), ('mind', 'NN'), ('shadows', 'NNS'), ('th', 'VBP'), ('unstable', 'JJ'), ('wind', 'NN'), ('thus', 'RB'), ('remember', 'VB'), ('dwelt', 'JJ'), ('page', 'NN'), ('early', 'JJ'), ('lore', 'NN'), ('upon', 'IN'), ('loitering', 'VBG'), ('eye', 'NN'), ('till', 'NN'), ('felt', 'VBD'), ('letters', 'NNS'), ('meaning', 'VBG'), ('melt', 'JJ'), ('fantasies', 'NNS'), ('none', 'NN'), ('worthy', 'JJ'), ('love', 'NN'), ('love', 'NN'), ('infancy', 'NN'), ('mine', 'NN'), ('angel', 'NN'), ('minds', 'NNS'), ('might', 'MD'), ('envy', 'VB'), ('young', 'JJ'), ('heart', 'NN'), ('shrine', 'NN'), ('every', 'DT'), ('hope', 'NN'), ('thought', 'VBN'), ('incense', 'RB'), ('goodly', 'RB'), ('gift', 'JJ'), ('childish', 'JJ'), ('upright', 'JJ'), ('pure', 'NN'), ('young', 'JJ'), ('example', 'NN'), ('taught', 'NN'), ('leave', 'VBP'), ('adrift', 'NN'), ('trust', 'NN'), ('fire', 'NN'), ('within', 'IN'), ('light', 'JJ'), ('grew', 'VBD'), ('age', 'NN'), ('love', 'VB'), ('together', 'RB'), ('roaming', 'VBG'), ('forest', 'JJS'), ('wild', 'JJ'), ('breast', 'NN'), ('shield', 'VBD'), ('wintry', 'NN'), ('weather', 'NN'), ('friendly', 'JJ'), ('sunshine', 'JJ'), ('smil', 'NN'), ('would', 'MD'), ('mark', 'VB'), ('opening', 'VBG'), ('skies', 'NNS'), ('saw', 'VBD'), ('heaven', 'JJ'), ('eyes', 'NNS'), ('young', 'JJ'), ('love', 'VBP'), ('first', 'JJ'), ('lesson', 'JJ'), ('heart', 'NN'), ('mid', 'NN'), ('sunshine', 'NN'), ('smiles', 'VBZ'), ('little', 'JJ'), ('cares', 'NNS'), ('apart', 'RB'), ('laughing', 'VBG'), ('girlish', 'JJ'), ('wiles', 'NNS'), ('would', 'MD'), ('throw', 'VB'), ('throbbing', 'VBG'), ('breast', 'IN'), ('pour', 'JJ'), ('spirit', 'NN'), ('tears', 'NNS'), ('need', 'VBP'), ('speak', 'JJ'), ('rest', 'VBP'), ('need', 'MD'), ('quiet', 'JJ'), ('fears', 'NNS'), ('ask', 'IN'), ('reason', 'NN'), ('turn', 'VBP'), ('quiet', 'JJ'), ('eye', 'NN'), ('yet', 'RB'), ('worthy', 'JJ'), ('love', 'NN'), ('spirit', 'NN'), ('struggled', 'VBD'), ('strove', 'RB'), ('mountain', 'NN'), ('peak', 'JJ'), ('alone', 'JJ'), ('ambition', 'NN'), ('lent', 'VBD'), ('new', 'JJ'), ('tone', 'NN'), ('thee', 'NN'), ('world', 'NN'), ('contain', 'NN'), ('earth', 'NN'), ('air', 'NN'), ('sea', 'NN'), ('joy', 'NN'), ('little', 'JJ'), ('lot', 'NN'), ('pain', 'VBP'), ('new', 'JJ'), ('pleasure', 'NN'), ('ideal', 'NN'), ('dim', 'NN'), ('vanities', 'NNS'), ('dreams', 'VBP'), ('night', 'NN'), ('dimmer', 'NN'), ('nothings', 'NNS'), ('real', 'JJ'), ('shadows', 'NNS'), ('shadowy', 'VBP'), ('light', 'JJ'), ('parted', 'VBN'), ('upon', 'IN'), ('misty', 'JJ'), ('wings', 'NNS'), ('confusedly', 'RB'), ('became', 'VBD'), ('thine', 'JJ'), ('image', 'NN'), ('name', 'NN'), ('name', 'RB'), ('two', 'CD'), ('separate', 'JJ'), ('yet', 'RB'), ('intimate', 'JJ'), ('things', 'NNS'), ('ambitious', 'JJ'), ('known', 'VBN'), ('passion', 'NN'), ('father', 'NN'), ('cottager', 'NN'), ('mark', 'NN'), ('throne', 'NN'), ('half', 'NN'), ('world', 'NN'), ('murmur', 'NN'), ('lowly', 'RB'), ('lot', 'NN'), ('like', 'IN'), ('dream', 'NN'), ('upon', 'IN'), ('vapour', 'NN'), ('dew', 'NN'), ('past', 'IN'), ('beam', 'NN'), ('beauty', 'NN'), ('thro', 'IN'), ('minute', 'JJ'), ('hour', 'NN'), ('day', 'NN'), ('oppress', 'IN'), ('mind', 'NN'), ('double', 'JJ'), ('loveliness', 'NN'), ('walk', 'NN'), ('together', 'RB'), ('crown', 'JJ'), ('high', 'JJ'), ('mountain', 'NN'), ('look', 'VBP'), ('afar', 'RB'), ('proud', 'JJ'), ('natural', 'JJ'), ('towers', 'NNS'), ('rock', 'VBP'), ('forest', 'JJS'), ('hills', 'NNS'), ('dwindled', 'VBD'), ('hills', 'NNS'), ('begirt', 'NN'), ('bowers', 'NNS'), ('shouting', 'VBG'), ('thousand', 'NN'), ('rills', 'NNS'), ('spoke', 'VBD'), ('power', 'NN'), ('pride', 'NN'), ('mystically', 'RB'), ('guise', 'JJ'), ('might', 'MD'), ('deem', 'VB'), ('nought', 'JJ'), ('beside', 'NN'), ('moment', 'NN'), ('converse', 'JJ'), ('eyes', 'NNS'), ('read', 'VBP'), ('perhaps', 'RB'), ('carelessly', 'RB'), ('mingled', 'VBN'), ('feeling', 'NN'), ('flush', 'NN'), ('bright', 'JJ'), ('cheek', 'NN'), ('seem', 'VBP'), ('become', 'VBN'), ('queenly', 'RB'), ('throne', 'RB'), ('well', 'RB'), ('let', 'VB'), ('light', 'JJ'), ('wilderness', 'VB'), ('alone', 'RB'), ('wrapp', 'JJ'), ('grandeur', 'NN'), ('donn', 'NN'), ('visionary', 'JJ'), ('crown', 'NN'), ('yet', 'RB'), ('fantasy', 'JJ'), ('thrown', 'JJ'), ('mantle', 'NN'), ('among', 'IN'), ('rabble', 'JJ'), ('men', 'NNS'), ('lion', 'VBP'), ('ambition', 'NN'), ('chained', 'VBN'), ('crouches', 'NNS'), ('keeper', 'FW'), ('hand', 'NN'), ('deserts', 'NNS'), ('grand', 'JJ'), ('wild', 'JJ'), ('terrible', 'JJ'), ('conspire', 'NN'), ('breath', 'NN'), ('fan', 'NN'), ('fire', 'NN'), ('look', 'NN'), ('round', 'NN'), ('thee', 'NN'), ('samarcand', 'NN'), ('queen', 'JJ'), ('earth', 'NN'), ('pride', 'NN'), ('cities', 'NNS'), ('hand', 'NN'), ('destinies', 'NNS'), ('beside', 'IN'), ('glory', 'NN'), ('world', 'NN'), ('hath', 'NN'), ('known', 'VBN'), ('stands', 'VBZ'), ('nobly', 'RB'), ('alone', 'RB'), ('falling', 'VBG'), ('veriest', 'JJS'), ('stepping', 'VBG'), ('stone', 'NN'), ('shall', 'MD'), ('form', 'VB'), ('pedestal', 'JJ'), ('throne', 'NN'), ('sovereign', 'NN'), ('timour', 'NN'), ('astonished', 'VBD'), ('people', 'NNS'), ('saw', 'VBD'), ('striding', 'VBG'), ('empires', 'NNS'), ('haughtily', 'RB'), ('diadem', 'VBP'), ('outlaw', 'NN'), ('human', 'JJ'), ('love', 'NN'), ('thou', 'NN'), ('spirit', 'NN'), ('given', 'VBN'), ('earth', 'JJ'), ('hope', 'NN'), ('heaven', 'RB'), ('fall', 'VB'), ('st', 'JJ'), ('soul', 'NN'), ('like', 'IN'), ('rain', 'NN'), ('upon', 'IN'), ('siroc', 'NN'), ('wither', 'NN'), ('plain', 'NN'), ('failing', 'VBG'), ('thy', 'JJ'), ('power', 'NN'), ('bless', 'NN'), ('leav', 'NN'), ('st', 'JJ'), ('heart', 'NN'), ('wilderness', 'NN'), ('idea', 'NN'), ('bindest', 'JJS'), ('life', 'NN'), ('around', 'IN'), ('music', 'NN'), ('strange', 'JJ'), ('sound', 'JJ'), ('beauty', 'NN'), ('wild', 'JJ'), ('birth', 'NN'), ('farewell', 'VBP'), ('earth', 'IN'), ('hope', 'NN'), ('eagle', 'NN'), ('tower', 'NN'), ('could', 'MD'), ('see', 'VB'), ('cliff', 'JJ'), ('beyond', 'IN'), ('sky', 'JJ'), ('pinions', 'NNS'), ('bent', 'VBP'), ('droopingly', 'RB'), ('homeward', 'JJ'), ('turn', 'NN'), ('soften', 'VBN'), ('eye', 'NN'), ('sunset', 'NN'), ('sun', 'JJ'), ('part', 'NN'), ('comes', 'VBZ'), ('sullenness', 'JJ'), ('heart', 'NN'), ('still', 'RB'), ('would', 'MD'), ('look', 'VB'), ('upon', 'IN'), ('glory', 'NN'), ('summer', 'NN'), ('sun', 'NN'), ('soul', 'NN'), ('hate', 'NN'), ('ev', 'NN'), ('ning', 'VBG'), ('mist', 'NN'), ('often', 'RB'), ('lovely', 'JJ'), ('list', 'JJ'), ('sound', 'NN'), ('coming', 'VBG'), ('darkness', 'JJ'), ('known', 'VBN'), ('whose', 'WP$'), ('spirits', 'NNS'), ('hearken', 'VBP'), ('one', 'CD'), ('dream', 'NN'), ('night', 'NN'), ('would', 'MD'), ('fly', 'VB'), ('can', 'MD'), ('not', 'RB'), ('danger', 'VB'), ('nigh', 'JJ'), ('tho', 'NN'), ('moon', 'NN'), ('white', 'JJ'), ('moon', 'NN'), ('would', 'MD'), ('splendour', 'VB'), ('noon', 'NN'), ('smile', 'NN'), ('chilly', 'RB'), ('beam', 'JJ'), ('time', 'NN'), ('dreariness', 'NN'), ('seem', 'VBP'), ('like', 'IN'), ('gather', 'JJR'), ('breath', 'NN'), ('portrait', 'NN'), ('taken', 'VBN'), ('death', 'NN'), ('boyhood', 'NN'), ('summer', 'NN'), ('sun', 'NN'), ('whose', 'WP$'), ('waning', 'VBG'), ('dreariest', 'JJS'), ('one', 'CD'), ('live', 'NN'), ('know', 'NN'), ('known', 'VBN'), ('seek', 'JJ'), ('keep', 'NN'), ('hath', 'NN'), ('flown', 'VBN'), ('let', 'JJ'), ('life', 'NN'), ('day', 'NN'), ('flower', 'VB'), ('fall', 'NN'), ('noon', 'RB'), ('day', 'NN'), ('beauty', 'NN'), ('reach', 'VBP'), ('home', 'NN'), ('home', 'NN'), ('flown', 'VBN'), ('made', 'VBN'), ('pass', 'NN'), ('mossy', 'JJ'), ('door', 'NN'), ('tho', 'NNS'), ('tread', 'VBP'), ('soft', 'JJ'), ('low', 'JJ'), ('voice', 'NN'), ('came', 'VBD'), ('threshold', 'RB'), ('stone', 'NN'), ('one', 'CD'), ('earlier', 'JJR'), ('known', 'VBN'), ('defy', 'NN'), ('thee', 'NN'), ('hell', 'NN'), ('show', 'NN'), ('beds', 'VBZ'), ('fire', 'JJ'), ('burn', 'NN'), ('humbler', 'NN'), ('heart', 'NN'), ('deeper', 'NN'), ('woe', 'NN'), ('father', 'NN'), ('firmly', 'RB'), ('believe', 'VB'), ('know', 'JJ'), ('death', 'NN'), ('comes', 'VBZ'), ('regions', 'NNS'), ('blest', 'JJS'), ('afar', 'RB'), ('nothing', 'NN'), ('deceive', 'JJ'), ('hath', 'NN'), ('left', 'VBD'), ('iron', 'NN'), ('gate', 'NN'), ('ajar', 'NN'), ('rays', 'VBZ'), ('truth', 'NN'), ('can', 'MD'), ('not', 'RB'), ('see', 'VB'), ('flashing', 'VBG'), ('thro', 'JJ'), ('eternity', 'NN'), ('believe', 'VBP'), ('eblis', 'VBZ'), ('hath', 'NN'), ('snare', 'NN'), ('every', 'DT'), ('human', 'JJ'), ('path', 'NN'), ('else', 'RB'), ('holy', 'JJ'), ('grove', 'NN'), ('wandered', 'VBD'), ('idol', 'JJ'), ('love', 'IN'), ('daily', 'JJ'), ('scents', 'NNS'), ('snowy', 'JJ'), ('wings', 'NNS'), ('incense', 'JJ'), ('burnt', 'JJ'), ('offerings', 'NNS'), ('unpolluted', 'JJ'), ('things', 'NNS'), ('whose', 'WP$'), ('pleasant', 'JJ'), ('bowers', 'NNS'), ('yet', 'RB'), ('riven', 'VBN'), ('trellis', 'NN'), ('rays', 'NNS'), ('heaven', 'RB'), ('mote', 'VBP'), ('may', 'MD'), ('shun', 'VB'), ('tiniest', 'JJS'), ('fly', 'NN'), ('lightning', 'VBG'), ('eagle', 'NN'), ('eye', 'NN'), ('ambition', 'NN'), ('crept', 'VBD'), ('unseen', 'JJ'), ('amid', 'IN'), ('revels', 'NNS'), ('till', 'IN'), ('growing', 'VBG'), ('bold', 'JJ'), ('laughed', 'VBN'), ('leapt', 'JJ'), ('tangles', 'NNS'), ('love', 'VBP'), ('hair', 'NN')]","['made', 'call', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'flashing', 'mind', 'saw', 'laurels', 'laughing', 'came', 'danger', 'leave', 'remember', 'ning', 'need', 'became', 'throw', 'rendered', 'youth', 'flown', 'lion', 'rays', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'astonished', 'captive', 'withering', 'throne', 'expire', 'pain', 'winged', 'coming', 'opening', 'mingled', 'crept', 'throbbing', 'spell', 'look', 'bent', 'yearning', 'reach', 'tell', 'love', 'laughed', 'attempt', 'taken', 'hope', 'deem', 'fall', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'form', 'believe', 'become', 'flower', 'beds', 'meaning', 'dwindled', 'lost', 'searing', 'see', 'nestled', 'rock', 'dying', 'wandered', 'wilderness', 'lightning', 'hearken', 'shun', 'grew', 'lent', 'drew', 'given', 'failing', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'left', 'hell', 'rest', 'make', 'mark', 'shield', 'read', 'shadowy', 'seem', 'thought', 'hung', 'loving', 'mote', 'known', 'striding', 'sovereign', 'shouting', 'fly', 'fell', 'envy', 'dreams', 'alas', 'stepping', 'let', 'telling', 'appeared', 'loitering', 'th', 'tread', 'know', 'growing', 'stands', 'taglay', 'chained']","['dote', 'list', 'darkness', 'intimate', 'snowy', 'old', 'dreariest', 'veriest', 'pleasant', 'burnt', 'seek', 'chime', 'incense', 'gift', 'converse', 'double', 'unpolluted', 'thine', 'terrible', 'wild', 'secret', 'deep', 'unstable', 'melt', 'guise', 'cliff', 'heaven', 'real', 'hapless', 'hath', 'gather', 'idol', 'sullenness', 'ear', 'crown', 'throne', 'leapt', 'sun', 'thy', 'unholy', 'dwelt', 'daily', 'thro', 'alone', 'soft', 'pour', 'friendly', 'unseen', 'holier', 'proud', 'peak', 'fire', 'unshelter', 'headlong', 'fantasy', 'separate', 'new', 'deem', 'white', 'lesson', 'bindest', 'sound', 'first', 'monarchy', 'ambitious', 'child', 'st', 'bold', 'heavy', 'girlish', 'earth', 'dead', 'wrapp', 'mid', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'homeward', 'lovely', 'human', 'little', 'rabble', 'minute', 'grand', 'blest', 'diadem', 'thrown', 'cry', 'forest', 'worthy', 'misty', 'nigh', 'high', 'deceive', 'young', 'quiet', 'sunshine', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'pedestal', 'tyranny', 'thee', 'beam', 'bright', 'speak', 'glory', 'tiniest', 'sky', 'rome', 'unearthly', 'let', 'rush', 'glow', 'light', 'holy', 'red', 'visionary', 'know', 'upright', 'mad', 'strange', 'mossy']","['world', 'shadows', 'feeling', 'leav', 'call', 'hills', 'name', 'flattery', 'shone', 'plain', 'torrent', 'heirdom', 'shrine', 'flashing', 'pleasure', 'mind', 'home', 'passion', 'loveliness', 'desire', 'shame', 'spirits', 'flush', 'show', 'reason', 'fierce', 'hour', 'theme', 'mantle', 'lineaments', 'rings', 'gift', 'ev', 'thine', 'dreariness', 'face', 'beauty', 'empires', 'noon', 'live', 'deserts', 'path', 'innate', 'trumpet', 'halo', 'hand', 'eagle', 'ideal', 'caesar', 'men', 'rays', 'night', 'hath', 'dream', 'wither', 'solace', 'pageantry', 'hate', 'death', 'tone', 'turn', 'ambition', 'letters', 'crown', 'bowers', 'pain', 'throne', 'birth', 'ajar', 'sun', 'touch', 'hair', 'deeper', 'idea', 'siroc', 'tumult', 'sunset', 'flowers', 'round', 'scents', 'skies', 'door', 'fool', 'woman', 'pinions', 'roar', 'till', 'destinies', 'revell', 'power', 'fame', 'look', 'reach', 'fire', 'air', 'eyes', 'woe', 'love', 'dim', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'hours', 'claim', 'weakness', 'contain', 'music', 'mists', 'hope', 'mountain', 'thousand', 'fall', 'dew', 'jewels', 'vanities', 'outlaw', 'heritage', 'fear', 'joy', 'pride', 'sound', 'truth', 'nothings', 'bless', 'boyhood', 'weather', 'spirit', 'knell', 'brow', 'snare', 'grove', 'deaf', 'regions', 'cares', 'walk', 'crush', 'suitors', 'begirt', 'passions', 'towers', 'earth', 'crouches', 'wings', 'fan', 'hum', 'wilderness', 'portion', 'bow', 'strife', 'thunder', 'moment', 'mid', 'offerings', 'portrait', 'tower', 'emptiness', 'head', 'victory', 'wintry', 'cheek', 'life', 'father', 'thou', 'voice', 'inherit', 'fears', 'cottager', 'moon', 'time', 'nothing', 'cry', 'burn', 'eternity', 'hell', 'adrift', 'rain', 'beside', 'eye', 'conspire', 'pass', 'none', 'sunshine', 'nature', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'clouds', 'mist', 'summer', 'lot', 'trellis', 'prayer', 'kind', 'e', 'trust', 'half', 'age', 'vapour', 'soul', 'thee', 'image', 'beam', 'day', 'sin', 'people', 'dimmer', 'part', 'sovereign', 'man', 'samarcand', 'smil', 'fly', 'glory', 'smile', 'soil', 'page', 'dreams', 'tangles', 'fantasies', 'closing', 'angel', 'grandeur', 'donn', 'pure', 'timour', 'light', 'keep', 'agony', 'breath', 'lore', 'divine', 'god', 'heart', 'wind', 'taught', 'things', 'defy', 'tears', 'know', 'breast', 'cities', 'humbler', 'minds', 'gate', 'sea', 'stone', 'trace', 'example']","['first', 'intenser', 'name', 'throne', 'carelessly', 'else', 'afar', 'queenly', 'fever', 'perhaps', 'firmly', 'strove', 'alone', 'confusedly', 'threshold', 'nobly', 'kingly', 'droopingly', 'yet', 'incense', 'lowly', 'often', 'thus', 'triumphantly', 'mystically', 'chilly', 'haughtily', 'still', 'noon', 'madly', 'usurpingly', 'together', 'apart', 'silly', 'goodly', 'always', 'leap', 'heaven', 'not', 'nightly', 'striven', 'hurriedly', 'late', 'well']","['took', 'made', 'call', 'rue', 'farewell', 'rejoice', 'falling', 'comes', 'eblis', 'murmuring', 'shadow', 'called', 'groaning', 'slept', 'flashing', 'lone', 'saw', 'annie', 'mind', 'laurels', 'laughing', 'came', 'danger', 'commingled', 'lie', 'lingering', 'abated', 'robed', 'leave', 'failed', 'refined', 'surging', 'kingdom', 'remember', 'sepulchre', 'ning', 'need', 'sounding', 'reached', 'became', 'uplifting', 'throw', 'rendered', 'live', 'said', 'youth', 'flown', 'knowing', 'lion', 'arrant', 'heaven', 'rays', 'moaning', 'mountains', 'fancy', 'went', 'spoke', 'tone', 'shrive', 'turn', 'dews', 'craving', 'felt', 'legion', 'astonished', 'captive', 'taglay', 'withering', 'throne', 'looked', 'expire', 'winged', 'pain', 'says', 'lullaby', 'coming', 'opening', 'rise', 'myrtles', 'lying', 'reposes', 'mingled', 'surpassing', 'fringed', 'king', 'crept', 'rolled', 'pleasing', 'ceased', 'throbbing', 'bonnet', 'wing', 'spell', 'look', 'bent', 'beams', 'fire', 'yearning', 'reach', 'tell', 'love', 'laughed', 'lakes', 'attempt', 'feel', 'start', 'taken', 'passed', 'hope', 'loved', 'deem', 'sad', 'tortures', 'outspread', 'fall', 'sobbing', 'splendour', 'riven', 'waning', 'struggled', 'soften', 'pride', 'awaken', 'form', 'grey', 'lived', 'aspire', 'drowned', 'believe', 'haunted', 'save', 'burned', 'seen', 'concealed', 'snows', 'met', 'become', 'flower', 'beds', 'maddened', 'parting', 'tormented', 'take', 'thirst', 'meaning', 'dwindled', 'sheeted', 'caressed', 'dwell', 'departed', 'offer', 'lost', 'find', 'chilling', 'see', 'searing', 'traced', 'quieted', 'nestled', 'rock', 'dying', 'chasms', 'toppling', 'rosemary', 'stirling', 'lightning', 'wandered', 'wilderness', 'hearken', 'found', 'depend', 'sighing', 'cavern', 'kissed', 'grew', 'lent', 'conquered', 'drew', 'given', 'failing', 'wiser', 'inherit', 'killing', 'slumber', 'smiles', 'roaming', 'diadem', 'liv', 'gurgled', 'swelling', 'parted', 'avow', 'left', 'envying', 'hell', 'rest', 'make', 'bathing', 'beholding', 'bringing', 'coveted', 'forgetting', 'mark', 'flying', 'read', 'shield', 'seem', 'baltimore', 'shadowy', 'dare', 'bedight', 'thought', 'hung', 'lolling', 'journeyed', 'exposed', 'loving', 'mote', 'known', 'striding', 'titan', 'sung', 'obscure', 'extinguished', 'lies', 'sovereign', 'gone', 'shouting', 'shade', 'bed', 'regretting', 'fly', 'darling', 'fell', 'envy', 'sky', 'dreams', 'blighted', 'alas', 'stepping', 'let', 'telling', 'keep', 'thinking', 'appeared', 'loitering', 'bring', 'named', 'darkened', 'th', 'knew', 'tread', 'know', 'tears', 'growing', 'stands', 'shun', 'tantalized', 'sea', 'chained']","['weep', 'last', 'name', 'dote', 'stable', 'list', 'destroy', 'darkness', 'intimate', 'snowy', 'ephemeral', 'different', 'torrent', 'old', 'lid', 'annie', 'dreariest', 'veriest', 'noblest', 'pleasant', 'happiest', 'burnt', 'seek', 'chime', 'flimsy', 'incense', 'trunk', 'golden', 'gift', 'sepulchre', 'converse', 'double', 'unpolluted', 'thine', 'highest', 'terrible', 'torture', 'drunk', 'deep', 'wild', 'secret', 'flown', 'unstable', 'ancient', 'melt', 'guise', 'cliff', 'heaven', 'blew', 'real', 'hapless', 'creep', 'hath', 'fancy', 'happy', 'trash', 'gather', 'wrong', 'idol', 'sullenness', 'puritan', 'ear', 'crown', 'throne', 'leapt', 'sun', 'ultimate', 'unholy', 'thy', 'dwelt', 'daily', 'thro', 'shorn', 'alone', 'soft', 'pour', 'roar', 'mossy', 'profoundest', 'friendly', 'lee', 'soothing', 'unseen', 'holier', 'proud', 'pilgrim', 'peak', 'fire', 'full', 'love', 'vanish', 'unshelter', 'drip', 'headlong', 'fantasy', 'weak', 'brilliant', 'heavier', 'separate', 'loved', 'deem', 'sad', 'white', 'outspread', 'new', 'ride', 'lesson', 'bindest', 'eldorado', 'oh', 'sound', 'ah', 'sleep', 'first', 'odor', 'monarchy', 'shut', 'ambitious', 'spirit', 'dark', 'thirst', 'child', 'st', 'bold', 'tragic', 'heavy', 'sigh', 'girlish', 'earth', 'black', 'highborn', 'solomon', 'dead', 'route', 'wrapp', 'brightest', 'cloud', 'unlicensed', 'petrarchan', 'beautiful', 'mid', 'opaque', 'powerful', 'childish', 'usurp', 'nought', 'queen', 'interminable', 'common', 'annabel', 'homeward', 'immortal', 'blue', 'older', 'narrow', 'lovely', 'human', 'little', 'moon', 'rabble', 'minute', 'indited', 'grand', 'much', 'blest', 'diadem', 'swamp', 'thrown', 'cry', 'warm', 'forest', 'worthy', 'misty', 'nigh', 'unclosed', 'high', 'deceive', 'young', 'ween', 'gallant', 'saturday', 'quiet', 'sunshine', 'unto', 'good', 'natural', 'undying', 'iron', 'early', 'earlier', 'low', 'general', 'foreign', 'replied', 'pedestal', 'tyranny', 'dear', 'shrouded', 'sublime', 'soul', 'thee', 'beam', 'peaceful', 'bright', 'speak', 'horrible', 'stronger', 'glory', 'long', 'tiniest', 'deepest', 'allegory', 'sky', 'rome', 'unearthly', 'alas', 'faintest', 'many', 'let', 'inexorable', 'harm', 'song', 'dismal', 'light', 'rush', 'glow', 'holy', 'red', 'visionary', 'know', 'upright', 'side', 'mad', 'covered', 'strange', 'february']","['world', 'shadows', 'feeling', 'leav', 'weep', 'others', 'hills', 'region', 'demons', 'plain', 'torrent', 'heirdom', 'fever', 'shrine', 'lone', 'view', 'home', 'passion', 'loveliness', 'shame', 'show', 'danger', 'nook', 'seek', 'lie', 'fierce', 'grasp', 'hour', 'binds', 'mysteries', 'lineaments', 'prayed', 'rings', 'poet', 'thule', 'tarns', 'kingdom', 'river', 'friends', 'ghouls', 'face', 'beauty', 'vision', 'dunce', 'noon', 'live', 'innate', 'dramatist', 'flows', 'hand', 'halo', 'eagle', 'pools', 'caesar', 'cliff', 'rays', 'hath', 'dream', 'mountains', 'fancy', 'wither', 'living', 'pageantry', 'death', 'tone', 'stormy', 'trash', 'turn', 'ambition', 'seas', 'letters', 'birth', 'sun', 'touch', 'hair', 'tumult', 'sunset', 'round', 'flowers', 'door', 'storm', 'woman', 'pour', 'roar', 'till', 'destinies', 'ill', 'lee', 'power', 'matter', 'fame', 'look', 'fire', 'caves', 'walks', 'surf', 'sand', 'feel', 'lakes', 'names', 'angels', 'tho', 'wiles', 'murmur', 'infancy', 'rills', 'claim', 'music', 'tomb', 'hope', 'shore', 'thousand', 'space', 'jewels', 'vanities', 'tighter', 'sear', 'heritage', 'joy', 'fear', 'pride', 'sound', 'ah', 'lands', 'nothings', 'bless', 'brain', 'boyhood', 'weather', 'spirit', 'snare', 'grove', 'child', 'floods', 'walk', 'crush', 'nausea', 'year', 'begirt', 'sense', 'tint', 'earth', 'crouches', 'route', 'quenches', 'wilderness', 'thunder', 'strife', 'moment', 'cloud', 'offerings', 'reigns', 'language', 'tower', 'feet', 'emptiness', 'queen', 'head', 'wintry', 'annabel', 'thank', 'brighter', 'cheek', 'life', 'bard', 'voice', 'fears', 'tide', 'moon', 'woods', 'alloy', 'fancies', 'nothing', 'cry', 'childhood', 'burn', 'rest', 'kiss', 'grains', 'beside', 'eye', 'maiden', 'sunshine', 'bath', 'banners', 'revels', 'words', 'mark', 'iron', 'fount', 'battle', 'mine', 'mist', 'prince', 'summer', 'thought', 'stars', 'lot', 'prayer', 'ground', 'kind', 'age', 'image', 'obscure', 'day', 'beam', 'dimmer', 'sovereign', 'sonnet', 'man', 'encamp', 'glance', 'fly', 'page', 'sky', 'harm', 'fantasies', 'let', 'bubbles', 'angel', 'autumn', 'eminence', 'sorrow', 'recall', 'keep', 'spot', 'beholds', 'lore', 'divine', 'god', 'heart', 'taught', 'defy', 'wills', 'tears', 'breast', 'know', 'cities', 'dawn', 'humbler', 'paints', 'pinions', 'sea', 'minds', 'trace', 'example', 'con', 'call', 'name', 'illness', 'agitations', 'tongue', 'newt', 'shadow', 'boldness', 'flattery', 'shone', 'length', 'flashing', 'annie', 'mind', 'pleasure', 'eidolon', 'spirits', 'desire', 'flush', 'reason', 'yes', 'rage', 'theme', 'downy', 'dint', 'tuckermanities', 'memories', 'mantle', 'bride', 'gift', 'ev', 'thine', 'dreariness', 'singing', 'empires', 'path', 'deserts', 'torture', 'trumpet', 'ideal', 'men', 'move', 'heaven', 'glows', 'demon', 'wave', 'night', 'wanderer', 'forms', 'solace', 'hate', 'kinsman', 'fingers', 'bottomless', 'stand', 'crown', 'bowers', 'pain', 'throne', 'ajar', 'source', 'tender', 'deeper', 'idea', 'siroc', 'roses', 'scents', 'skies', 'fool', 'revell', 'days', 'seraphs', 'travelling', 'reach', 'eyes', 'venom', 'paper', 'meets', 'glories', 'love', 'dim', 'crisis', 'powers', 'passes', 'woe', 'sickness', 'room', 'hours', 'weakness', 'strength', 'contain', 'mists', 'mountain', 'fall', 'clasp', 'ride', 'sparkles', 'dew', 'tresses', 'outlaw', 'imagination', 'eldorado', 'oh', 'form', 'truth', 'knight', 'sleep', 'naples', 'moralist', 'melancholy', 'mystery', 'odor', 'traveller', 'pitiless', 'fountain', 'knell', 'land', 'brow', 'nonsense', 'forbid', 'deaf', 'gold', 'hold', 'regions', 'cares', 'glasses', 'naphthaline', 'depth', 'suitors', 'see', 'visions', 'visiter', 'woes', 'passions', 'towers', 'wings', 'fan', 'flutter', 'hum', 'stuff', 'displays', 'waters', 'beholder', 'portion', 'vales', 'bow', 'mid', 'portrait', 'victory', 'revives', 'father', 'thou', 'inherit', 'cottager', 'spring', 'transparent', 'time', 'design', 'discover', 'eternity', 'hell', 'drawn', 'adrift', 'rain', 'conspire', 'pass', 'none', 'nature', 'twirls', 'baltimore', 'harmony', 'pansies', 'clouds', 'muscle', 'lieth', 'water', 'trellis', 'air', 'e', 'toad', 'half', 'trust', 'vapour', 'soul', 'thee', 'people', 'sin', 'part', 'samarcand', 'bed', 'smil', 'glory', 'smile', 'soil', 'dreams', 'gloomy', 'tangles', 'valley', 'closing', 'clime', 'grandeur', 'donn', 'pure', 'timour', 'song', 'light', 'agony', 'breath', 'gathers', 'things', 'hast', 'wind', 'knowledge', 'search', 'owl', 'gate', 'shudder', 'lady', 'stone', 'puff']","['ever', 'first', 'deeply', 'name', 'endlessly', 'lily', 'carelessly', 'dissever', 'happily', 'afar', 'ago', 'fever', 'firmly', 'strove', 'confusedly', 'easily', 'restlessly', 'threshold', 'foolishly', 'nobly', 'less', 'kingly', 'droopingly', 'right', 'yet', 'essence', 'lowly', 'incense', 'thus', 'enough', 'triumphantly', 'boldly', 'contentedly', 'even', 'haughtily', 'still', 'noon', 'worst', 'annabel', 'madly', 'together', 'bard', 'newly', 'accurst', 'gaily', 'goodly', 'seldom', 'heaven', 'always', 'veritably', 'hath', 'nightly', 'never', 'sadly', 'striven', 'bore', 'late', 'intenser', 'far', 'throne', 'blandly', 'else', 'queenly', 'away', 'perhaps', 'alone', 'tenderly', 'evermore', 'better', 'sol', 'boundless', 'holier', 'composedly', 'often', 'love', 'mystically', 'lonely', 'long', 'chilly', 'fondly', 'usurpingly', 'apart', 'spot', 'silly', 'shore', 'rightly', 'leap', 'not', 'quietly', 'gently', 'openly', 'therefore', 'aghast', 'hurriedly', 'well']"
